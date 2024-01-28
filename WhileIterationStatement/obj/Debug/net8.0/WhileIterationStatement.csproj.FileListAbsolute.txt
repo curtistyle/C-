@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\WhileIterationStatement\bin\Debug\net8.0\WhileIterationStatement.exe
+D:\Progarmacion\C-\WhileIterationStatement\bin\Debug\net8.0\WhileIterationStatement.deps.json
+D:\Progarmacion\C-\WhileIterationStatement\bin\Debug\net8.0\WhileIterationStatement.runtimeconfig.json
+D:\Progarmacion\C-\WhileIterationStatement\bin\Debug\net8.0\WhileIterationStatement.dll
+D:\Progarmacion\C-\WhileIterationStatement\bin\Debug\net8.0\WhileIterationStatement.pdb
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.AssemblyInfo.cs
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.sourcelink.json
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.dll
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\refint\WhileIterationStatement.dll
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.pdb
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\WhileIterationStatement.genruntimeconfig.cache
+D:\Progarmacion\C-\WhileIterationStatement\obj\Debug\net8.0\ref\WhileIterationStatement.dll

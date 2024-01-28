@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\EqualityAndRelationalOperators\bin\Debug\net8.0\EqualityAndRelationalOperators.exe
+D:\Progarmacion\C-\EqualityAndRelationalOperators\bin\Debug\net8.0\EqualityAndRelationalOperators.deps.json
+D:\Progarmacion\C-\EqualityAndRelationalOperators\bin\Debug\net8.0\EqualityAndRelationalOperators.runtimeconfig.json
+D:\Progarmacion\C-\EqualityAndRelationalOperators\bin\Debug\net8.0\EqualityAndRelationalOperators.dll
+D:\Progarmacion\C-\EqualityAndRelationalOperators\bin\Debug\net8.0\EqualityAndRelationalOperators.pdb
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.AssemblyInfo.cs
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.sourcelink.json
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.dll
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\refint\EqualityAndRelationalOperators.dll
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.pdb
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\EqualityAndRelationalOperators.genruntimeconfig.cache
+D:\Progarmacion\C-\EqualityAndRelationalOperators\obj\Debug\net8.0\ref\EqualityAndRelationalOperators.dll

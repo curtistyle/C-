@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ifStatementClass\bin\Debug\net8.0\ifStatementClass.exe
+D:\Progarmacion\C-\ifStatementClass\bin\Debug\net8.0\ifStatementClass.deps.json
+D:\Progarmacion\C-\ifStatementClass\bin\Debug\net8.0\ifStatementClass.runtimeconfig.json
+D:\Progarmacion\C-\ifStatementClass\bin\Debug\net8.0\ifStatementClass.dll
+D:\Progarmacion\C-\ifStatementClass\bin\Debug\net8.0\ifStatementClass.pdb
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.AssemblyInfo.cs
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.sourcelink.json
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.dll
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\refint\ifStatementClass.dll
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.pdb
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ifStatementClass.genruntimeconfig.cache
+D:\Progarmacion\C-\ifStatementClass\obj\Debug\net8.0\ref\ifStatementClass.dll

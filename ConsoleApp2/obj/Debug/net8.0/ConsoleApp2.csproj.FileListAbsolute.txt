@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+D:\Progarmacion\C-\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\Progarmacion\C-\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\Progarmacion\C-\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+D:\Progarmacion\C-\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\Progarmacion\C-\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll

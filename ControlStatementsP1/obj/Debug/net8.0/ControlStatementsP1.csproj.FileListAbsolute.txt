@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.AssemblyInfo.cs
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.sourcelink.json
+D:\Progarmacion\C-\ControlStatementsP1\bin\Debug\net8.0\ControlStatementsP1.exe
+D:\Progarmacion\C-\ControlStatementsP1\bin\Debug\net8.0\ControlStatementsP1.deps.json
+D:\Progarmacion\C-\ControlStatementsP1\bin\Debug\net8.0\ControlStatementsP1.runtimeconfig.json
+D:\Progarmacion\C-\ControlStatementsP1\bin\Debug\net8.0\ControlStatementsP1.dll
+D:\Progarmacion\C-\ControlStatementsP1\bin\Debug\net8.0\ControlStatementsP1.pdb
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.dll
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\refint\ControlStatementsP1.dll
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.pdb
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ControlStatementsP1.genruntimeconfig.cache
+D:\Progarmacion\C-\ControlStatementsP1\obj\Debug\net8.0\ref\ControlStatementsP1.dll

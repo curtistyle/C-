@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\Arithmetic\bin\Debug\net8.0\Arithmetic.exe
+D:\Progarmacion\C-\Arithmetic\bin\Debug\net8.0\Arithmetic.deps.json
+D:\Progarmacion\C-\Arithmetic\bin\Debug\net8.0\Arithmetic.runtimeconfig.json
+D:\Progarmacion\C-\Arithmetic\bin\Debug\net8.0\Arithmetic.dll
+D:\Progarmacion\C-\Arithmetic\bin\Debug\net8.0\Arithmetic.pdb
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfo.cs
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.sourcelink.json
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.dll
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\refint\Arithmetic.dll
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.pdb
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\Arithmetic.genruntimeconfig.cache
+D:\Progarmacion\C-\Arithmetic\obj\Debug\net8.0\ref\Arithmetic.dll
