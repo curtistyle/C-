@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ForIteratorStatement\bin\Debug\net8.0\ForIteratorStatement.exe
+D:\Progarmacion\C-\ForIteratorStatement\bin\Debug\net8.0\ForIteratorStatement.deps.json
+D:\Progarmacion\C-\ForIteratorStatement\bin\Debug\net8.0\ForIteratorStatement.runtimeconfig.json
+D:\Progarmacion\C-\ForIteratorStatement\bin\Debug\net8.0\ForIteratorStatement.dll
+D:\Progarmacion\C-\ForIteratorStatement\bin\Debug\net8.0\ForIteratorStatement.pdb
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.AssemblyInfo.cs
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.sourcelink.json
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.dll
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\refint\ForIteratorStatement.dll
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.pdb
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ForIteratorStatement.genruntimeconfig.cache
+D:\Progarmacion\C-\ForIteratorStatement\obj\Debug\net8.0\ref\ForIteratorStatement.dll

@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\SwitchMultipleStatement\bin\Debug\net8.0\SwitchMultipleStatement.exe
+D:\Progarmacion\C-\SwitchMultipleStatement\bin\Debug\net8.0\SwitchMultipleStatement.deps.json
+D:\Progarmacion\C-\SwitchMultipleStatement\bin\Debug\net8.0\SwitchMultipleStatement.runtimeconfig.json
+D:\Progarmacion\C-\SwitchMultipleStatement\bin\Debug\net8.0\SwitchMultipleStatement.dll
+D:\Progarmacion\C-\SwitchMultipleStatement\bin\Debug\net8.0\SwitchMultipleStatement.pdb
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.AssemblyInfo.cs
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.sourcelink.json
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.dll
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\refint\SwitchMultipleStatement.dll
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.pdb
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\SwitchMultipleStatement.genruntimeconfig.cache
+D:\Progarmacion\C-\SwitchMultipleStatement\obj\Debug\net8.0\ref\SwitchMultipleStatement.dll

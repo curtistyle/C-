@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ThisIsEnum\bin\Debug\net8.0\ThisIsEnum.exe
+D:\Progarmacion\C-\ThisIsEnum\bin\Debug\net8.0\ThisIsEnum.deps.json
+D:\Progarmacion\C-\ThisIsEnum\bin\Debug\net8.0\ThisIsEnum.runtimeconfig.json
+D:\Progarmacion\C-\ThisIsEnum\bin\Debug\net8.0\ThisIsEnum.dll
+D:\Progarmacion\C-\ThisIsEnum\bin\Debug\net8.0\ThisIsEnum.pdb
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.AssemblyInfo.cs
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.sourcelink.json
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.dll
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\refint\ThisIsEnum.dll
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.pdb
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ThisIsEnum.genruntimeconfig.cache
+D:\Progarmacion\C-\ThisIsEnum\obj\Debug\net8.0\ref\ThisIsEnum.dll

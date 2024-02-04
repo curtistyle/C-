@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ThisIsArrays\bin\Debug\net8.0\ThisIsArrays.exe
+D:\Progarmacion\C-\ThisIsArrays\bin\Debug\net8.0\ThisIsArrays.deps.json
+D:\Progarmacion\C-\ThisIsArrays\bin\Debug\net8.0\ThisIsArrays.runtimeconfig.json
+D:\Progarmacion\C-\ThisIsArrays\bin\Debug\net8.0\ThisIsArrays.dll
+D:\Progarmacion\C-\ThisIsArrays\bin\Debug\net8.0\ThisIsArrays.pdb
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.AssemblyInfo.cs
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.sourcelink.json
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.dll
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\refint\ThisIsArrays.dll
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.pdb
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ThisIsArrays.genruntimeconfig.cache
+D:\Progarmacion\C-\ThisIsArrays\obj\Debug\net8.0\ref\ThisIsArrays.dll

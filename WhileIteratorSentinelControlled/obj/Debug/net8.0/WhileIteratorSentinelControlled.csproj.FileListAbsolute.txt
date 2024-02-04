@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\bin\Debug\net8.0\WhileIteratorSentinelControlled.exe
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\bin\Debug\net8.0\WhileIteratorSentinelControlled.deps.json
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\bin\Debug\net8.0\WhileIteratorSentinelControlled.runtimeconfig.json
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\bin\Debug\net8.0\WhileIteratorSentinelControlled.dll
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\bin\Debug\net8.0\WhileIteratorSentinelControlled.pdb
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.AssemblyInfo.cs
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.sourcelink.json
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.dll
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\refint\WhileIteratorSentinelControlled.dll
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.pdb
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\WhileIteratorSentinelControlled.genruntimeconfig.cache
+D:\Progarmacion\C-\WhileIteratorSentinelControlled\obj\Debug\net8.0\ref\WhileIteratorSentinelControlled.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EqualityAndRelationalOperators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af72b41d203e588bb494da1b449ff9dab7cf089c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6ed1fe4d3346ed3a99d9e6bda057d187087858c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EqualityAndRelationalOperators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EqualityAndRelationalOperators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

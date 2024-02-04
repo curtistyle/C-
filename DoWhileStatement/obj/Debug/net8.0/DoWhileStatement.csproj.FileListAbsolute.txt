@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\DoWhileStatement\bin\Debug\net8.0\DoWhileStatement.exe
+D:\Progarmacion\C-\DoWhileStatement\bin\Debug\net8.0\DoWhileStatement.deps.json
+D:\Progarmacion\C-\DoWhileStatement\bin\Debug\net8.0\DoWhileStatement.runtimeconfig.json
+D:\Progarmacion\C-\DoWhileStatement\bin\Debug\net8.0\DoWhileStatement.dll
+D:\Progarmacion\C-\DoWhileStatement\bin\Debug\net8.0\DoWhileStatement.pdb
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.AssemblyInfo.cs
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.sourcelink.json
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.dll
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\refint\DoWhileStatement.dll
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.pdb
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\DoWhileStatement.genruntimeconfig.cache
+D:\Progarmacion\C-\DoWhileStatement\obj\Debug\net8.0\ref\DoWhileStatement.dll

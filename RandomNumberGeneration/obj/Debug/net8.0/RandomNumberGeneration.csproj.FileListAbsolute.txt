@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\RandomNumberGeneration\bin\Debug\net8.0\RandomNumberGeneration.exe
+D:\Progarmacion\C-\RandomNumberGeneration\bin\Debug\net8.0\RandomNumberGeneration.deps.json
+D:\Progarmacion\C-\RandomNumberGeneration\bin\Debug\net8.0\RandomNumberGeneration.runtimeconfig.json
+D:\Progarmacion\C-\RandomNumberGeneration\bin\Debug\net8.0\RandomNumberGeneration.dll
+D:\Progarmacion\C-\RandomNumberGeneration\bin\Debug\net8.0\RandomNumberGeneration.pdb
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.AssemblyInfo.cs
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.sourcelink.json
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.dll
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\refint\RandomNumberGeneration.dll
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.pdb
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\RandomNumberGeneration.genruntimeconfig.cache
+D:\Progarmacion\C-\RandomNumberGeneration\obj\Debug\net8.0\ref\RandomNumberGeneration.dll

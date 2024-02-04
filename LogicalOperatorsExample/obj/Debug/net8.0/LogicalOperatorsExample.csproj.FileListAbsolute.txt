@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\LogicalOperatorsExample\bin\Debug\net8.0\LogicalOperatorsExample.exe
+D:\Progarmacion\C-\LogicalOperatorsExample\bin\Debug\net8.0\LogicalOperatorsExample.deps.json
+D:\Progarmacion\C-\LogicalOperatorsExample\bin\Debug\net8.0\LogicalOperatorsExample.runtimeconfig.json
+D:\Progarmacion\C-\LogicalOperatorsExample\bin\Debug\net8.0\LogicalOperatorsExample.dll
+D:\Progarmacion\C-\LogicalOperatorsExample\bin\Debug\net8.0\LogicalOperatorsExample.pdb
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.AssemblyInfo.cs
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.sourcelink.json
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.dll
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\refint\LogicalOperatorsExample.dll
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.pdb
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\LogicalOperatorsExample.genruntimeconfig.cache
+D:\Progarmacion\C-\LogicalOperatorsExample\obj\Debug\net8.0\ref\LogicalOperatorsExample.dll

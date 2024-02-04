@@ -1,4 +1,4 @@
-﻿/*int product;
+﻿int product;
 int index = 1;
 
 Console.Write("Enter a number 1..10: ");
@@ -41,7 +41,7 @@ while (sentinela)
 }
 Console.ReadKey();
 Console.Clear();
-*/
+
 
 // implementing counter-controlled iterataor
 
@@ -50,17 +50,18 @@ Console.Clear();
 men están disponibles para su análisis. Determine el promedio de la clase en el examen.
  */
 
-int numberStudent = 1; // numero de estudiante
+int numberStudent = 0; // numero de estudiante
 int qualification = 0;
 double average = 0.0;
 
-while (numberStudent <= 10)
+while (numberStudent < 10)
 {
-    Console.Write($"Enter qualification of student {numberStudent}: ");
-    qualification = int.Parse(Console.ReadLine());
+    Console.Write($"Enter qualification of student {numberStudent+1}: ");
+    qualification += int.Parse(Console.ReadLine());
     numberStudent++;
 }
 
+Console.WriteLine($"Average of the {numberStudent} is {qualification/numberStudent}");
 
 
 

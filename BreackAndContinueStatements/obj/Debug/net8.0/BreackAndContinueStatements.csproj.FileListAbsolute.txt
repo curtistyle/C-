@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\BreackAndContinueStatements\bin\Debug\net8.0\BreackAndContinueStatements.exe
+D:\Progarmacion\C-\BreackAndContinueStatements\bin\Debug\net8.0\BreackAndContinueStatements.deps.json
+D:\Progarmacion\C-\BreackAndContinueStatements\bin\Debug\net8.0\BreackAndContinueStatements.runtimeconfig.json
+D:\Progarmacion\C-\BreackAndContinueStatements\bin\Debug\net8.0\BreackAndContinueStatements.dll
+D:\Progarmacion\C-\BreackAndContinueStatements\bin\Debug\net8.0\BreackAndContinueStatements.pdb
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.AssemblyInfo.cs
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.sourcelink.json
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.dll
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\refint\BreackAndContinueStatements.dll
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.pdb
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\BreackAndContinueStatements.genruntimeconfig.cache
+D:\Progarmacion\C-\BreackAndContinueStatements\obj\Debug\net8.0\ref\BreackAndContinueStatements.dll
