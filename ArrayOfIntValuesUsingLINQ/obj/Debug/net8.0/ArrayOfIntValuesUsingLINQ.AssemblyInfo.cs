@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayOfIntValuesUsingLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ef8040bb358e01e9b09fe9216f50510d00f64f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8faed84653f5a1be4bf2ff4df54b394833ebc554")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayOfIntValuesUsingLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayOfIntValuesUsingLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
