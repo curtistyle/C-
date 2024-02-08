@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\UsingCommandLineArguments\bin\Debug\net8.0\UsingCommandLineArguments.exe
+D:\Progarmacion\C-\UsingCommandLineArguments\bin\Debug\net8.0\UsingCommandLineArguments.deps.json
+D:\Progarmacion\C-\UsingCommandLineArguments\bin\Debug\net8.0\UsingCommandLineArguments.runtimeconfig.json
+D:\Progarmacion\C-\UsingCommandLineArguments\bin\Debug\net8.0\UsingCommandLineArguments.dll
+D:\Progarmacion\C-\UsingCommandLineArguments\bin\Debug\net8.0\UsingCommandLineArguments.pdb
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.AssemblyInfo.cs
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.sourcelink.json
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.dll
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\refint\UsingCommandLineArguments.dll
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.pdb
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\UsingCommandLineArguments.genruntimeconfig.cache
+D:\Progarmacion\C-\UsingCommandLineArguments\obj\Debug\net8.0\ref\UsingCommandLineArguments.dll
