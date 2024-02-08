@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\bin\Debug\net8.0\ThisIsMultidimensionalArray.exe
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\bin\Debug\net8.0\ThisIsMultidimensionalArray.deps.json
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\bin\Debug\net8.0\ThisIsMultidimensionalArray.runtimeconfig.json
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\bin\Debug\net8.0\ThisIsMultidimensionalArray.dll
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\bin\Debug\net8.0\ThisIsMultidimensionalArray.pdb
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.AssemblyInfo.cs
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.sourcelink.json
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.dll
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\refint\ThisIsMultidimensionalArray.dll
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.pdb
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ThisIsMultidimensionalArray.genruntimeconfig.cache
+D:\Progarmacion\C-\ThisIsMultidimensionalArray\obj\Debug\net8.0\ref\ThisIsMultidimensionalArray.dll

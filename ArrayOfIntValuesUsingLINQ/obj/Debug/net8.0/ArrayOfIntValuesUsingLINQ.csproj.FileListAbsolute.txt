@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\bin\Debug\net8.0\ArrayOfIntValuesUsingLINQ.exe
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\bin\Debug\net8.0\ArrayOfIntValuesUsingLINQ.deps.json
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\bin\Debug\net8.0\ArrayOfIntValuesUsingLINQ.runtimeconfig.json
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\bin\Debug\net8.0\ArrayOfIntValuesUsingLINQ.dll
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\bin\Debug\net8.0\ArrayOfIntValuesUsingLINQ.pdb
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.AssemblyInfo.cs
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.sourcelink.json
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.dll
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\refint\ArrayOfIntValuesUsingLINQ.dll
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.pdb
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ArrayOfIntValuesUsingLINQ.genruntimeconfig.cache
+D:\Progarmacion\C-\ArrayOfIntValuesUsingLINQ\obj\Debug\net8.0\ref\ArrayOfIntValuesUsingLINQ.dll

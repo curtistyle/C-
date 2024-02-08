@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.AssemblyInfo.cs
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.sourcelink.json
+D:\Progarmacion\C-\VariableLengthArgumentList\bin\Debug\net8.0\VariableLengthArgumentList.exe
+D:\Progarmacion\C-\VariableLengthArgumentList\bin\Debug\net8.0\VariableLengthArgumentList.deps.json
+D:\Progarmacion\C-\VariableLengthArgumentList\bin\Debug\net8.0\VariableLengthArgumentList.runtimeconfig.json
+D:\Progarmacion\C-\VariableLengthArgumentList\bin\Debug\net8.0\VariableLengthArgumentList.dll
+D:\Progarmacion\C-\VariableLengthArgumentList\bin\Debug\net8.0\VariableLengthArgumentList.pdb
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.dll
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\refint\VariableLengthArgumentList.dll
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.pdb
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\VariableLengthArgumentList.genruntimeconfig.cache
+D:\Progarmacion\C-\VariableLengthArgumentList\obj\Debug\net8.0\ref\VariableLengthArgumentList.dll
