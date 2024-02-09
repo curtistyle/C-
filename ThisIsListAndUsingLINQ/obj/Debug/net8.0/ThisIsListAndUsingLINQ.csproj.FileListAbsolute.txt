@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\bin\Debug\net8.0\ThisIsListAndUsingLINQ.exe
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\bin\Debug\net8.0\ThisIsListAndUsingLINQ.deps.json
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\bin\Debug\net8.0\ThisIsListAndUsingLINQ.runtimeconfig.json
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\bin\Debug\net8.0\ThisIsListAndUsingLINQ.dll
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\bin\Debug\net8.0\ThisIsListAndUsingLINQ.pdb
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.AssemblyInfo.cs
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.sourcelink.json
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.dll
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\refint\ThisIsListAndUsingLINQ.dll
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.pdb
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ThisIsListAndUsingLINQ.genruntimeconfig.cache
+D:\Progarmacion\C-\ThisIsListAndUsingLINQ\obj\Debug\net8.0\ref\ThisIsListAndUsingLINQ.dll

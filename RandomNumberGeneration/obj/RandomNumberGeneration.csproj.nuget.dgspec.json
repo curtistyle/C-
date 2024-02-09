@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\seb_c\\Documents\\GitHub\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj": {}
+    "D:\\Progarmacion\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\seb_c\\Documents\\GitHub\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj": {
+    "D:\\Progarmacion\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\seb_c\\Documents\\GitHub\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj",
+        "projectUniqueName": "D:\\Progarmacion\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj",
         "projectName": "RandomNumberGeneration",
-        "projectPath": "C:\\Users\\seb_c\\Documents\\GitHub\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj",
-        "packagesPath": "C:\\Users\\seb_c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\seb_c\\Documents\\GitHub\\C-\\RandomNumberGeneration\\obj\\",
+        "projectPath": "D:\\Progarmacion\\C-\\RandomNumberGeneration\\RandomNumberGeneration.csproj",
+        "packagesPath": "C:\\Users\\Curtis\\.nuget\\packages\\",
+        "outputPath": "D:\\Progarmacion\\C-\\RandomNumberGeneration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\seb_c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Curtis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

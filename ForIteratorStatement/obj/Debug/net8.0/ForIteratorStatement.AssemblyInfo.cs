@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForIteratorStatement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8909c4540e057c5e7e10bc20c309a6066067f923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+630eb83959a5dda8c70ed4e05e1320a8aef39476")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForIteratorStatement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForIteratorStatement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

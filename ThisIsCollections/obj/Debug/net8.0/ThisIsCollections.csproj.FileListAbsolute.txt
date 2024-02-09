@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ThisIsCollections\bin\Debug\net8.0\ThisIsCollections.exe
+D:\Progarmacion\C-\ThisIsCollections\bin\Debug\net8.0\ThisIsCollections.deps.json
+D:\Progarmacion\C-\ThisIsCollections\bin\Debug\net8.0\ThisIsCollections.runtimeconfig.json
+D:\Progarmacion\C-\ThisIsCollections\bin\Debug\net8.0\ThisIsCollections.dll
+D:\Progarmacion\C-\ThisIsCollections\bin\Debug\net8.0\ThisIsCollections.pdb
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.AssemblyInfo.cs
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.sourcelink.json
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.dll
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\refint\ThisIsCollections.dll
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.pdb
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ThisIsCollections.genruntimeconfig.cache
+D:\Progarmacion\C-\ThisIsCollections\obj\Debug\net8.0\ref\ThisIsCollections.dll

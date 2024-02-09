@@ -82,3 +82,103 @@ El metodo `Join()` se utiliza para realizar una operación de combinación (join) 
 - La clave de la secuencia externa (`outerKeySelector`).
 - Un selector de resultados (`resultSelector`) que especifica cómo se deben combinar los elementos de las dos secuencias para formar el resultado final.
 - Es importante tener en cuenta que `Join()` es una operación que puede ser costosa, especialmente si las secuencias son grandes, ya que implica comparar cada elemento de una secuencia con cada elemento de la otra secuencia.
+
+```C#
+using System;
+using System.Linq;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var personas = new[] {
+            new { Id = 1, Nombre = "Juan" },
+            new { Id = 2, Nombre = "María" },
+            new { Id = 3, Nombre = "Pedro" }
+        };
+
+        var trabajos = new[] {
+            new { Id = 1, Trabajo = "Ingeniero" },
+            new { Id = 2, Trabajo = "Doctor" }
+        };
+
+        var resultado = personas.Join(
+            trabajos,
+            persona => persona.Id,
+            trabajo => trabajo.Id,
+            (persona, trabajo) => new {
+                Nombre = persona.Nombre,
+                Trabajo = trabajo.Trabajo
+            });
+
+        foreach (var item in resultado)
+        {
+            Console.WriteLine($"{item.Nombre} - {item.Trabajo}");
+        }
+    }
+}
+
+```
+
+#### Metodo `Max()`
+
+El Método `Max()` se utiliza para obtener el valor máximo de una secuencia de elementos que implementa la interfaz `IEnumerable<T>`.
+
+Es importante tener en cuenta que el método `Max()` puede ser utilizado con tipos de datos que implementan la interfaz `IComparable<T>`, lo que significa que los elementos de la secuencia deben ser comparables entre sí para determinar cuál es el máximo.
+
+#### Metodo `Min()`
+
+El método `Min()` se utiliza para obtener el valor minimo de una secuencia de elementos que implementa la interfaz `IEnumerable<T>`
+
+Al igual que con el método `Max()`, el método `Min()` puede ser utilizado con tipos de datos que implementan la interfaz `IComparable<T>`, lo que significa que los elementos de la secuencia deben ser comparables entre sí para determinar cuál es el mínimo.
+
+#### Metodo `Last()`
+
+El metodo `Last()` se utiliza para obtener el último elemento de una secuencia de elementos que implementa la interfaz `IEnumerable<T>`.
+
+Es importante tener en cuenta que el método `Last()` puede generar una excepción `InvalidOperationException` si la secuencia está vacía, es decir, si no contiene ningún elemento.
+
+Si la secuencia está vacía, el método `Last()` generará una excepción `InvalidOperationException`. Es importante manejar este caso si no estás seguro de si la secuencia contiene elementos o no. Puedes utilizar métodos como `LastOrDefault()` si prefieres un valor predeterminado en lugar de una excepción en caso de una secuencia vacía.
+
+#### Metodo `Agregate()`
+
+El metodo `Agregate()` se utiliza para aplicar una función acumuladora a los elementos de una secuencia, produciendo un único resultado.
+
+Es importante tener en cuenta que el método `Aggregate()` puede ser utilizado para una amplia variedad de operaciones de agregación, como sumar todos los elementos de una secuencia, calcular un producto, concatenar cadenas, encontrar el valor máximo o mínimo, etc. La función acumuladora que se proporciona determina cómo se realizará la agregación.
+
+```
+int[] ints = { 4, 8, 8, 3, 9, 0, 7, 8, 2 };
+
+// Count the even numbers in the array, using a seed value of 0.
+int numEven = ints.Aggregate(0, (total, next) =>
+                                    next % 2 == 0 ? total + 1 : total);
+
+Console.WriteLine("The number of even integers is: {0}", numEven);
+
+// This code produces the following output:
+//
+// The number of even integers is: 6
+```
+
+```
+using System;
+using System.Linq;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int[] numeros = { 1, 2, 3, 4, 5 };
+
+        // Calcular la suma de los elementos de la secuencia
+        int suma = numeros.Aggregate((acumulador, elemento) => acumulador + elemento);
+        Console.WriteLine("La suma de los elementos es: " + suma); // Salida: 15
+    }
+}
+```
+
+- `numeros`: Es una secuencia de elementos sobre la que se aplica el método `Aggregate()`.
+- `Aggregate(...)`: Este es el método `Aggregate()` en sí mismo, que toma un acumulador inicial y una función acumuladora como argumentos.
+- `acumulador` y `elemento`: Son parámetros de la función acumuladora. acumulador representa el valor acumulado hasta el momento, y elemento es el siguiente elemento en la secuencia que se está procesando.
+- `=>`: Este es el operador de la expresión lambda, que define la función acumuladora.
+- `acumulador + elemento`: Es la expresión que describe cómo se acumula el valor. En este caso, simplemente suma el valor del acumulador actual con el elemento actual de la secuencia.
