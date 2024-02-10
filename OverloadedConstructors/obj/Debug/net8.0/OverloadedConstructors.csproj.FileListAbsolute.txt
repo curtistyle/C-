@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\OverloadedConstructors\bin\Debug\net8.0\OverloadedConstructors.exe
+D:\Progarmacion\C-\OverloadedConstructors\bin\Debug\net8.0\OverloadedConstructors.deps.json
+D:\Progarmacion\C-\OverloadedConstructors\bin\Debug\net8.0\OverloadedConstructors.runtimeconfig.json
+D:\Progarmacion\C-\OverloadedConstructors\bin\Debug\net8.0\OverloadedConstructors.dll
+D:\Progarmacion\C-\OverloadedConstructors\bin\Debug\net8.0\OverloadedConstructors.pdb
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.AssemblyInfo.cs
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.sourcelink.json
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.dll
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\refint\OverloadedConstructors.dll
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.pdb
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\OverloadedConstructors.genruntimeconfig.cache
+D:\Progarmacion\C-\OverloadedConstructors\obj\Debug\net8.0\ref\OverloadedConstructors.dll

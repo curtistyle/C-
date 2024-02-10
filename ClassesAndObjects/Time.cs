@@ -29,6 +29,11 @@ namespace ClassesAndObjects
 
         // convert to string in universal-time format (HH:MM:SS)
         public string ToUniversalString() => $"{Hour:D2}:{Minute:D2}:{Second:D2}";
+        /*
+         El especificador de formato D2 formatea un entero con dos dígitos y, 
+        cuando es necesario, un 0 inicial si el entero tiene menos de dos dígitos.
+        https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings
+         */
 
         // convert to string in standard-time format (H:MM:SS AM or PM)
         public override string ToString() => $"{((Hour == 0 || Hour == 12) ? 12 : Hour % 12)}:" + $"{Minute:D2}:{Second:D2} {(Hour < 12 ? "AM" : "PM")}";
