@@ -3,7 +3,13 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97D3B2B0-F369-47D3-862F-46A9AD25B3BE}|..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj|d:\\progarmacion\\c-\\thisislistandusinglinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E93CE6B-171B-47A8-83BE-D55CDA1807EF}|..\\ClassesAndObjects\\ClassesAndObjects.csproj|d:\\progarmacion\\c-\\classesandobjects\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E93CE6B-171B-47A8-83BE-D55CDA1807EF}|..\\ClassesAndObjects\\ClassesAndObjects.csproj|d:\\progarmacion\\c-\\classesandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E93CE6B-171B-47A8-83BE-D55CDA1807EF}|..\\ClassesAndObjects\\ClassesAndObjects.csproj|d:\\progarmacion\\c-\\classesandobjects\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +24,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ThisIsListAndUsingLINQ\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\Program.cs",
-              "RelativeToolTip": "..\\ThisIsListAndUsingLINQ\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ClassesAndObjects\\Readme.md",
+              "RelativeDocumentMoniker": "..\\ClassesAndObjects\\Readme.md",
+              "ToolTip": "D:\\Progarmacion\\C-\\ClassesAndObjects\\Readme.md",
+              "RelativeToolTip": "..\\ClassesAndObjects\\Readme.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-02-09T22:45:00.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Time.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ClassesAndObjects\\Time.cs",
+              "RelativeDocumentMoniker": "..\\ClassesAndObjects\\Time.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\ClassesAndObjects\\Time.cs",
+              "RelativeToolTip": "..\\ClassesAndObjects\\Time.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-09T01:26:19.528Z",
+              "WhenOpened": "2024-02-09T21:46:29.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ClassesAndObjects\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ClassesAndObjects\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\ClassesAndObjects\\Program.cs",
+              "RelativeToolTip": "..\\ClassesAndObjects\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T21:45:58.963Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.exe
+D:\Progarmacion\C-\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.deps.json
+D:\Progarmacion\C-\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.runtimeconfig.json
+D:\Progarmacion\C-\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.dll
+D:\Progarmacion\C-\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.pdb
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfo.cs
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.sourcelink.json
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.dll
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\refint\ClassesAndObjects.dll
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.pdb
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.genruntimeconfig.cache
+D:\Progarmacion\C-\ClassesAndObjects\obj\Debug\net8.0\ref\ClassesAndObjects.dll
