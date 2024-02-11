@@ -3,13 +3,7 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43B38469-052E-4FB1-9693-2AE17909A0D4}|..\\OverloadedConstructors\\OverloadedConstructors.csproj|d:\\progarmacion\\c-\\overloadedconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43B38469-052E-4FB1-9693-2AE17909A0D4}|..\\OverloadedConstructors\\OverloadedConstructors.csproj|d:\\progarmacion\\c-\\overloadedconstructors\\time2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43B38469-052E-4FB1-9693-2AE17909A0D4}|..\\OverloadedConstructors\\OverloadedConstructors.csproj|d:\\progarmacion\\c-\\overloadedconstructors\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}|..\\ConsoleApp3\\ConsoleApp3.csproj|d:\\progarmacion\\c-\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,45 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Readme.md",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\OverloadedConstructors\\Readme.md",
-              "RelativeDocumentMoniker": "..\\OverloadedConstructors\\Readme.md",
-              "ToolTip": "D:\\Progarmacion\\C-\\OverloadedConstructors\\Readme.md",
-              "RelativeToolTip": "..\\OverloadedConstructors\\Readme.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-02-10T03:06:58.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Time2.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\OverloadedConstructors\\Time2.cs",
-              "RelativeDocumentMoniker": "..\\OverloadedConstructors\\Time2.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\OverloadedConstructors\\Time2.cs",
-              "RelativeToolTip": "..\\OverloadedConstructors\\Time2.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAwwBkAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-10T01:57:11.171Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\OverloadedConstructors\\Program.cs",
-              "RelativeDocumentMoniker": "..\\OverloadedConstructors\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\OverloadedConstructors\\Program.cs",
-              "RelativeToolTip": "..\\OverloadedConstructors\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAAAAAA",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-10T01:54:54.6Z",
+              "WhenOpened": "2024-02-11T05:11:43.682Z",
               "EditorCaption": ""
             }
           ]
