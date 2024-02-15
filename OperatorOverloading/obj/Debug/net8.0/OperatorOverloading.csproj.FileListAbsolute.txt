@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.exe
+D:\Progarmacion\C-\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.deps.json
+D:\Progarmacion\C-\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+D:\Progarmacion\C-\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.dll
+D:\Progarmacion\C-\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.pdb
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfo.cs
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.sourcelink.json
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.dll
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\refint\OperatorOverloading.dll
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.pdb
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.genruntimeconfig.cache
+D:\Progarmacion\C-\OperatorOverloading\obj\Debug\net8.0\ref\OperatorOverloading.dll

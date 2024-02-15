@@ -55,9 +55,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThisReference", "..\ThisRef
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadedConstructors", "..\OverloadedConstructors\OverloadedConstructors.csproj", "{43B38469-052E-4FB1-9693-2AE17909A0D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "..\Composition\Composition.csproj", "{8FB06A50-CECC-48DE-BAC7-930F5969189F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "..\Composition\Composition.csproj", "{8FB06A50-CECC-48DE-BAC7-930F5969189F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "..\BinarySearch\BinarySearch.csproj", "{FC058FB4-9856-44CC-8754-751A698B012F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice1", "..\Practice1\Practice1.csproj", "{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "..\OperatorOverloading\OperatorOverloading.csproj", "{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +183,18 @@ Global
 		{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC058FB4-9856-44CC-8754-751A698B012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC058FB4-9856-44CC-8754-751A698B012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC058FB4-9856-44CC-8754-751A698B012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC058FB4-9856-44CC-8754-751A698B012F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

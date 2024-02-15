@@ -16,9 +16,12 @@ namespace Composition
         // constructor: use property Month to confirm proper value for month;
         // use property Day to confirm proper value for day
 
-        public Date(int month, int day)
+        public Date(int month, int day, int year)
         {
             Month = month;
+            Year = year;
+            Day = day;
+            Console.WriteLine($"Date object constructor for date {this}");
         }
     
         public int Month

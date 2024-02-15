@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\Composition\bin\Debug\net8.0\Composition.exe
+D:\Progarmacion\C-\Composition\bin\Debug\net8.0\Composition.deps.json
+D:\Progarmacion\C-\Composition\bin\Debug\net8.0\Composition.runtimeconfig.json
+D:\Progarmacion\C-\Composition\bin\Debug\net8.0\Composition.dll
+D:\Progarmacion\C-\Composition\bin\Debug\net8.0\Composition.pdb
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.AssemblyInfo.cs
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.sourcelink.json
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.dll
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\refint\Composition.dll
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.pdb
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\Composition.genruntimeconfig.cache
+D:\Progarmacion\C-\Composition\obj\Debug\net8.0\ref\Composition.dll

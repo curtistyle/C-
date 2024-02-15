@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBED8A83-FC00-47DE-A789-C1D0FC0F86B9}|..\\ConsoleApp3\\ConsoleApp3.csproj|d:\\progarmacion\\c-\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}|..\\Practice1\\Practice1.csproj|d:\\progarmacion\\c-\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ConsoleApp3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAABAAAA",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\Practice1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Practice1\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\Practice1\\Program.cs",
+              "RelativeToolTip": "..\\Practice1\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-11T05:11:43.682Z",
+              "WhenOpened": "2024-02-15T01:20:20.755Z",
               "EditorCaption": ""
             }
           ]
