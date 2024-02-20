@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}|..\\Inheritance3\\Inheritance3.csproj|d:\\progarmacion\\c-\\inheritance3\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}|..\\Inheritance3\\Inheritance3.csproj|d:\\progarmacion\\c-\\inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}|..\\Practice1\\Practice1.csproj|d:\\progarmacion\\c-\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,14 +24,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\Inheritance3\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance3\\CommissionEmployee.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\Inheritance3\\CommissionEmployee.cs",
+              "RelativeToolTip": "..\\Inheritance3\\CommissionEmployee.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAWwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:58:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\Inheritance3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance3\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\Inheritance3\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T01:38:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Progarmacion\\C-\\Practice1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Practice1\\Program.cs",
               "ToolTip": "D:\\Progarmacion\\C-\\Practice1\\Program.cs",
               "RelativeToolTip": "..\\Practice1\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAmwEMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T01:20:20.755Z",
+              "WhenOpened": "2024-02-19T20:37:19.814Z",
               "EditorCaption": ""
             }
           ]

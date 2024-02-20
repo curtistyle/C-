@@ -63,7 +63,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "..\BinarySe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice1", "..\Practice1\Practice1.csproj", "{CF5AD1BD-9376-4914-8D26-77CF9B3A752A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "..\OperatorOverloading\OperatorOverloading.csproj", "{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverloading", "..\OperatorOverloading\OperatorOverloading.csproj", "{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "..\Inheritance\Inheritance.csproj", "{60C7325B-806F-454A-BA54-AC54F7DCBF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance2", "..\Inheritance2\Inheritance2.csproj", "{F92791DC-23F4-4DED-A495-0CBDA9B5121D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance3", "..\Inheritance3\Inheritance3.csproj", "{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +201,18 @@ Global
 		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA8DEAD-9A2A-4A35-825A-F6A385DF2904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C7325B-806F-454A-BA54-AC54F7DCBF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C7325B-806F-454A-BA54-AC54F7DCBF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C7325B-806F-454A-BA54-AC54F7DCBF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C7325B-806F-454A-BA54-AC54F7DCBF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92791DC-23F4-4DED-A495-0CBDA9B5121D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92791DC-23F4-4DED-A495-0CBDA9B5121D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92791DC-23F4-4DED-A495-0CBDA9B5121D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92791DC-23F4-4DED-A495-0CBDA9B5121D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A02E688-8A38-426C-8F9F-E2E5B8DE2D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
