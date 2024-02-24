@@ -1,0 +1,20 @@
+## Jerarquía de Herencia `CommissionEmployee–BasePlusCommissionEmployee` Utilizando Variables de Instancia Privadas
+
+*Ahora reexaminamos nuestra jerarquía, esta vez utilizando las mejores prácticas de ingeniería de software.
+Clase Base `CommissionEmployee`*
+La clase `CommissionEmployee` una vez más declara las variables de instancia `grossSales` y `commissionRate` como privadas . Los métodos `Earnings` y `ToString`  ya no acceden directamente a estas variables de instancia, en su lugar utilizan las propiedades `GrossSales` y `CommissionRate` para acceder a los datos. Si decidimos cambiar los nombres de las variables de instancia, las declaraciones de `Earnings` y `ToString` no requerirán modificaciones, solo los cuerpos de las propiedades `GrossSale`s y `CommissionRate` que manipulan directamente las variables de instancia necesitarán cambiar. Estos cambios ocurren únicamente dentro de la clase base, no se necesitan cambios en la clase derivada. Localizar los efectos de cambios como este es una buena práctica de ingeniería de software. La clase derivada `BasePlusCommissionEmployee` hereda de `CommissionEmployee` y puede acceder a los miembros privados de la clase base a través de las propiedades públicas heredadas.
+
+
+## Clase Derivada `BasePlusCommissionEmployee`
+
+La clase `BasePlusCommissionEmployee` tiene varios cambios en las implementaciones de sus métodos que la distinguen. Los métodos `Earnings` y `ToString` invocan cada uno el accesor get de la propiedad `BaseSalary` para obtener el valor del salario base, en lugar de acceder directamente a baseSalary. Si decidimos cambiar el nombre de la variable de instancia `baseSalary`, solo el cuerpo de la propiedad `BaseSalary` necesitará cambiar.
+
+## Método `Earnings` de `BasePlusCommissionEmployee`
+El método `Earnings` de la clase `BasePlusCommissionEmployee` anula el método `Earnings` de la clase `CommissionEmployee` para calcular las ganancias de un `BasePlusCommissionEmployee`. La nueva versión obtiene la porción de las ganancias del empleado basada únicamente en la comisión llamando al método `Earnings` de `CommissionEmployee` con la expresión `base.Earnings()` , luego agrega el salario base a este valor para calcular las ganancias totales del empleado. Observa la sintaxis utilizada para invocar un método de la clase base anulado desde una clase derivada: coloca la palabra clave base y el operador de acceso a miembros (.) antes del nombre del método de la clase base. Esta invocación de método es una buena práctica de ingeniería de software; al hacer que el método `Earnings` de `BasePlusCommissionEmployee` invoque el método `Earnings` de `CommissionEmployee` para calcular parte de las ganancias de un objeto `BasePlusCommissionEmployee`, evitamos duplicar el código y reducimos los problemas de mantenimiento del código.
+
+## Método ToString de BasePlusCommissionEmployee
+De manera similar, el método `ToString` de `BasePlusCommissionEmployee` anula el de `CommissionEmployee`  para devolver una representación de cadena adecuada para un empleado con salario base y comisión. La nueva versión crea parte de la representación de cadena de `BasePlusCommissionEmployee` (es decir, la cadena "commision employee" y los valores de los datos de `CommissionEmployee`) llamando al método `ToString` de `CommissionEmployee` con la expresión `base.ToString()` e incorporando el resultado en la cadena devuelta por el método `ToString` de la clase derivada, que incluye el salario base.
+
+## Prueba de la Clase BasePlusCommissionEmployee
+La clase `BasePlusCommissionEmployeeTest` realiza las mismas manipulaciones en un objeto `BasePlusCommissionEmployee` que en la y produce la misma salida, por lo que no la mostramos aquí. Aunque cada clase `BasePlusCommissionEmployee` que has visto se comporta de manera idéntica, la versión en la es la mejor diseñada. Al utilizar la herencia y al emplear propiedades que ocultan los datos y aseguran la consistencia, hemos construido de manera eficiente y efectiva una clase bien diseñada.
+
