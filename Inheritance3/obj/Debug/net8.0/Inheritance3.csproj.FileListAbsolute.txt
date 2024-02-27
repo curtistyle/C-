@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\Inheritance3\bin\Debug\net8.0\Inheritance3.exe
+D:\Progarmacion\C-\Inheritance3\bin\Debug\net8.0\Inheritance3.deps.json
+D:\Progarmacion\C-\Inheritance3\bin\Debug\net8.0\Inheritance3.runtimeconfig.json
+D:\Progarmacion\C-\Inheritance3\bin\Debug\net8.0\Inheritance3.dll
+D:\Progarmacion\C-\Inheritance3\bin\Debug\net8.0\Inheritance3.pdb
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.AssemblyInfo.cs
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.sourcelink.json
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.dll
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\refint\Inheritance3.dll
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.pdb
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\Inheritance3.genruntimeconfig.cache
+D:\Progarmacion\C-\Inheritance3\obj\Debug\net8.0\ref\Inheritance3.dll

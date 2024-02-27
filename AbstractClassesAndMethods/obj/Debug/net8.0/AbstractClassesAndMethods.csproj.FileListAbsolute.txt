@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.exe
+D:\Progarmacion\C-\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.deps.json
+D:\Progarmacion\C-\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.runtimeconfig.json
+D:\Progarmacion\C-\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.dll
+D:\Progarmacion\C-\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.pdb
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.AssemblyInfo.cs
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.sourcelink.json
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.dll
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\refint\AbstractClassesAndMethods.dll
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.pdb
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.genruntimeconfig.cache
+D:\Progarmacion\C-\AbstractClassesAndMethods\obj\Debug\net8.0\ref\AbstractClassesAndMethods.dll
