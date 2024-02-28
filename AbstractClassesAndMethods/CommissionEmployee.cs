@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Cod 12.7
 
 namespace AbstractClassesAndMethods
 {
@@ -12,7 +8,8 @@ namespace AbstractClassesAndMethods
         private decimal commissionRate; // commission porcentage
 
         // five-parameter constructor
-        public CommissionEmployee(string firstName, string lastName, string socialSecurityNumber, decimal grossSales, decimal commissionRate) : base(firstName, lastName, socialSecurityNumber)
+        public CommissionEmployee(string firstName, string lastName, string socialSecurityNumber, decimal grossSales, decimal commissionRate) : 
+            base(firstName, lastName, socialSecurityNumber)
         {
             GrossSales = grossSales; // validates gross sales
             CommissionRate = commissionRate; // validates commission rate

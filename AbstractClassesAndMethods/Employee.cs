@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AbstractClassesAndMethods
-{
+﻿namespace AbstractClassesAndMethods
+{ // Cod: 12.4
     public abstract class Employee
     {
         public string FirstName { get; }
@@ -20,6 +14,7 @@ namespace AbstractClassesAndMethods
             SocialSecurityNumber = socialSecurityNumber;
         }
 
+        
         // return string representation of Employee object, using propierties
         public override string ToString() => $"{FirstName} {LastName}\n" +
             $"social security number: {SocialSecurityNumber}";

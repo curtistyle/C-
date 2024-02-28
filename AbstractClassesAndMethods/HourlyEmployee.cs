@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Cod. 12.6
 
 namespace AbstractClassesAndMethods
 {
@@ -12,7 +8,8 @@ namespace AbstractClassesAndMethods
         private decimal hours; // hours worked for the week
 
         // five-parameter constructor
-        public HourlyEmployee(string firstName, string lastName, string socialSecurityNumber, decimal hourlyWage, decimal hoursWorked) : base(firstName, lastName, socialSecurityNumber)
+        public HourlyEmployee(string firstName, string lastName, string socialSecurityNumber, decimal hourlyWage, decimal hoursWorked) : 
+            base(firstName, lastName, socialSecurityNumber)
         {
             Wage = hourlyWage;
             Hours = hoursWorked;

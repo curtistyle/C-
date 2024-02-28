@@ -1,21 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿// Cod: 12.5
 namespace AbstractClassesAndMethods
-{
+{ 
     public class SalariedEmployee : Employee
     {
         private decimal weeklySalary;
 
+        
         // four-parameter constructor 
-        public SalariedEmployee(string firstName, string lastName, string socialSecurityNumber, decimal weeklySalary) : base(firstName, lastName, socialSecurityNumber)
+        public SalariedEmployee(string firstName, string lastName, string socialSecurityNumber, decimal weeklySalary) : 
+            base(firstName, lastName, socialSecurityNumber)
         {
             WeeklySalary = weeklySalary; // validate salary
         }
     
+        
         // property that gets and sets salaried employee's salary
         public decimal WeeklySalary
         {
@@ -25,6 +23,7 @@ namespace AbstractClassesAndMethods
             }
             set
             {
+
                 if (value < 0) //validation
                 {
                     throw new ArgumentOutOfRangeException(nameof(value), value, $"{nameof(WeeklySalary)} must be >= 0");

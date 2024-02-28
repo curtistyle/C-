@@ -1,5 +1,5 @@
 ﻿// create derived-class objects 
-
+// Cod. 12.9
 using AbstractClassesAndMethods;
 
 var salariedEmployee = new SalariedEmployee("John", "Smith", "111-11-1111", 800.00M);
