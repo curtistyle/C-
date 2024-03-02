@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.AssemblyInfo.cs
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.sourcelink.json
+D:\Progarmacion\C-\UsingInterface\bin\Debug\net8.0\UsingInterface.exe
+D:\Progarmacion\C-\UsingInterface\bin\Debug\net8.0\UsingInterface.deps.json
+D:\Progarmacion\C-\UsingInterface\bin\Debug\net8.0\UsingInterface.runtimeconfig.json
+D:\Progarmacion\C-\UsingInterface\bin\Debug\net8.0\UsingInterface.dll
+D:\Progarmacion\C-\UsingInterface\bin\Debug\net8.0\UsingInterface.pdb
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.dll
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\refint\UsingInterface.dll
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.pdb
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\UsingInterface.genruntimeconfig.cache
+D:\Progarmacion\C-\UsingInterface\obj\Debug\net8.0\ref\UsingInterface.dll

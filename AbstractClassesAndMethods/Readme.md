@@ -148,3 +148,19 @@ Hemos discutido cuatro formas de asignar referencias de clase base y clase deriv
 2. Asignar una referencia de clase derivada a una variable de clase derivada es directo.
 3. Asignar una referencia de clase derivada a una variable de clase base es seguro, porque el objeto de clase derivada es un objeto de su clase base. Sin embargo, esta referencia solo puede usarse para referirse a miembros de la clase base. Si este código se refiere a miembros exclusivos de la clase derivada a través de la variable de clase base, el compilador reporta errores.
 4. Intentar asignar una referencia de clase base a una variable de clase derivada es un error de compilación. Para evitar este error, la referencia de clase base debe ser convertida explícitamente a un tipo de clase derivada o debe ser convertida usando el operador as. En tiempo de ejecución, si el objeto al que hace referencia la referencia no es un objeto de clase derivada, ocurrirá una excepción (a menos que uses el operador as, en cuyo caso deberás verificar el resultado de la expresión para null). El operador is puede ser usado para asegurar que tal conversión se realice solo si el objeto es un objeto de clase derivada.
+
+
+Métodos y Clases sellados
+
+Solo los métodos declarados como `virtual`, `override` o `abstract` pueden ser sobrescritos en clases derivadas. Un método declarado como `sealed` en una clase base no puede ser sobrescrito en una clase derivada. Los métodos que se declaran como privados implícitamente son sellados, porque es imposible sobrescribirlos en una clase derivada (aunque la clase derivada puede declarar un nuevo método con la misma firma que el método privado en la clase base). *Los métodos que se declaran como estáticos también son implícitamente sellados*, porque los métodos estáticos tampoco pueden ser sobrescritos. Un método de clase derivada declarado tanto como `override` y `sealed` puede sobrescribir un método de clase base, pero no puede ser sobrescrito en clases derivadas más abajo en la jerarquía de herencia.
+
+La declaración de un método sellado nunca puede cambiar, por lo que todas las clases derivadas usan la misma implementación de método, y las llamadas a métodos sellados (y métodos no virtuales) se resuelven en tiempo de compilación, esto se conoce como enlace estático. Dado que el compilador sabe que los métodos sellados no pueden ser sobrescritos, a menudo puede optimizar el código eliminando las llamadas a los métodos sellados y reemplazándolos con el código expandido de sus declaraciones en cada ubicación de llamada al método, una técnica conocida como **inlineación del código** (*inlining the code.*).
+
+Una clase que se declara sellada no puede ser una clase base (es decir, una clase no puede extender una clase sellada). Todos los métodos en una clase sellada son sellados implícitamente. La clase `string` es una clase sellada. Esta clase no puede ser extendida, por lo que las aplicaciones que usan cadenas pueden confiar en la funcionalidad de los objetos de cadena según se especifica en la Biblioteca de Clases del Framework.
+
+
+#### Consejo de rendimiento 
+> El compilador puede decidir incrustar una llamada a un método sellado y lo hará para métodos sellados pequeños y simples. La incrustación no viola la encapsulación o el ocultamiento de la información, pero mejora el rendimiento porque elimina los gastos generados por realizar una llamada a un método.
+
+### Error de programación común
+> Intentar declarar una clase derivada de una clase sellada es un error de compilación.

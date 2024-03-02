@@ -3,25 +3,25 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{2F827527-7B14-47FF-A45C-D0441EF4734F}|..\\UsingInterface\\UsingInterface.csproj|d:\\progarmacion\\c-\\usinginterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F827527-7B14-47FF-A45C-D0441EF4734F}|..\\UsingInterface\\UsingInterface.csproj|d:\\progarmacion\\c-\\usinginterface\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F827527-7B14-47FF-A45C-D0441EF4734F}|..\\UsingInterface\\UsingInterface.csproj|d:\\progarmacion\\c-\\usinginterface\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F827527-7B14-47FF-A45C-D0441EF4734F}|..\\UsingInterface\\UsingInterface.csproj|d:\\progarmacion\\c-\\usinginterface\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F497CA1-46E7-4DE9-9587-69214DC14B56}|..\\AbstractClassesAndMethods\\AbstractClassesAndMethods.csproj|d:\\progarmacion\\c-\\abstractclassesandmethods\\basepluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F827527-7B14-47FF-A45C-D0441EF4734F}|..\\UsingInterface\\UsingInterface.csproj|d:\\progarmacion\\c-\\usinginterface\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F827527-7B14-47FF-A45C-D0441EF4734F}|..\\UsingInterface\\UsingInterface.csproj|d:\\progarmacion\\c-\\usinginterface\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,96 +31,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BasePlusCommissionEmployee.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\BasePlusCommissionEmployee.cs",
-              "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\BasePlusCommissionEmployee.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\BasePlusCommissionEmployee.cs",
-              "RelativeToolTip": "..\\AbstractClassesAndMethods\\BasePlusCommissionEmployee.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "DocumentIndex": 3,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingInterface\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "..\\UsingInterface\\SalariedEmployee.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingInterface\\SalariedEmployee.cs",
+              "RelativeToolTip": "..\\UsingInterface\\SalariedEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T23:06:52.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\Employee.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\Employee.cs",
-              "RelativeToolTip": "..\\AbstractClassesAndMethods\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:16:51.228Z",
+              "WhenOpened": "2024-03-02T05:02:22.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SalariedEmployee.cs",
               "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\SalariedEmployee.cs",
               "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\SalariedEmployee.cs",
               "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\SalariedEmployee.cs",
               "RelativeToolTip": "..\\AbstractClassesAndMethods\\SalariedEmployee.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T22:12:58.538Z",
+              "WhenOpened": "2024-03-02T05:01:22.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HourlyEmployee.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\HourlyEmployee.cs",
-              "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\HourlyEmployee.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\HourlyEmployee.cs",
-              "RelativeToolTip": "..\\AbstractClassesAndMethods\\HourlyEmployee.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAJAAAA",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingInterface\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\UsingInterface\\Employee.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingInterface\\Employee.cs",
+              "RelativeToolTip": "..\\UsingInterface\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T20:59:47.163Z",
+              "WhenOpened": "2024-03-02T04:48:03.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CommissionEmployee.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\CommissionEmployee.cs",
-              "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\CommissionEmployee.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\CommissionEmployee.cs",
-              "RelativeToolTip": "..\\AbstractClassesAndMethods\\CommissionEmployee.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADIAAAAGAAAA",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingInterface\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\UsingInterface\\Invoice.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingInterface\\Invoice.cs",
+              "RelativeToolTip": "..\\UsingInterface\\Invoice.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T21:56:53.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Readme.md",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\Readme.md",
-              "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\Readme.md",
-              "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\Readme.md",
-              "RelativeToolTip": "..\\AbstractClassesAndMethods\\Readme.md",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAAAJYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-02-26T13:48:19.961Z",
+              "WhenOpened": "2024-03-02T03:51:46.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\Program.cs",
-              "RelativeDocumentMoniker": "..\\AbstractClassesAndMethods\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\AbstractClassesAndMethods\\Program.cs",
-              "RelativeToolTip": "..\\AbstractClassesAndMethods\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingInterface\\Readme.md",
+              "RelativeDocumentMoniker": "..\\UsingInterface\\Readme.md",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingInterface\\Readme.md",
+              "RelativeToolTip": "..\\UsingInterface\\Readme.md",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEwAAACNAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-01T22:20:43.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPayable.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingInterface\\IPayable.cs",
+              "RelativeDocumentMoniker": "..\\UsingInterface\\IPayable.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingInterface\\IPayable.cs",
+              "RelativeToolTip": "..\\UsingInterface\\IPayable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:32:02.978Z",
+              "WhenOpened": "2024-03-01T22:20:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingInterface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UsingInterface\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingInterface\\Program.cs",
+              "RelativeToolTip": "..\\UsingInterface\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:19:48.539Z",
               "EditorCaption": ""
             }
           ]
