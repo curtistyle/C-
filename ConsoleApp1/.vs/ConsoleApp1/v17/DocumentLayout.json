@@ -3,16 +3,10 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC585D62-2A9C-4EBD-B174-28C63B06304A}|..\\Generics\\Generics.csproj|d:\\progarmacion\\c-\\generics\\genericmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FD4CCAE-44C8-40B1-BA04-D13403101401}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|d:\\progarmacion\\c-\\functionalprogramming\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC585D62-2A9C-4EBD-B174-28C63B06304A}|..\\Generics\\Generics.csproj|d:\\progarmacion\\c-\\generics\\overloadedmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC585D62-2A9C-4EBD-B174-28C63B06304A}|..\\Generics\\Generics.csproj|d:\\progarmacion\\c-\\generics\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC585D62-2A9C-4EBD-B174-28C63B06304A}|..\\Generics\\Generics.csproj|d:\\progarmacion\\c-\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FD4CCAE-44C8-40B1-BA04-D13403101401}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|d:\\progarmacion\\c-\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,53 +21,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericMethod.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\Generics\\GenericMethod.cs",
-              "RelativeDocumentMoniker": "..\\Generics\\GenericMethod.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\Generics\\GenericMethod.cs",
-              "RelativeToolTip": "..\\Generics\\GenericMethod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T22:22:49.521Z",
+              "Title": "Readme.md",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\FunctionalProgramming\\Readme.md",
+              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Readme.md",
+              "ToolTip": "D:\\Progarmacion\\C-\\FunctionalProgramming\\Readme.md",
+              "RelativeToolTip": "..\\FunctionalProgramming\\Readme.md",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAALcAAAAJAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-05T14:54:31.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OverloadedMethods.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\Generics\\OverloadedMethods.cs",
-              "RelativeDocumentMoniker": "..\\Generics\\OverloadedMethods.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\Generics\\OverloadedMethods.cs",
-              "RelativeToolTip": "..\\Generics\\OverloadedMethods.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAACkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T21:22:25.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Readme.md",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\Generics\\Readme.md",
-              "RelativeDocumentMoniker": "..\\Generics\\Readme.md",
-              "ToolTip": "D:\\Progarmacion\\C-\\Generics\\Readme.md",
-              "RelativeToolTip": "..\\Generics\\Readme.md",
-              "ViewState": "AQIAADwAAAAAAAAAAAAwwEwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-03-04T21:08:37.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\Generics\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Generics\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\Generics\\Program.cs",
-              "RelativeToolTip": "..\\Generics\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\FunctionalProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\FunctionalProgramming\\Program.cs",
+              "RelativeToolTip": "..\\FunctionalProgramming\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T21:08:17.668Z",
+              "WhenOpened": "2024-03-05T14:54:06.415Z",
               "EditorCaption": ""
             }
           ]

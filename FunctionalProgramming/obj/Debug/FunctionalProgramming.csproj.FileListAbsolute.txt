@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe.config
+D:\Progarmacion\C-\FunctionalProgramming\bin\Debug\FunctionalProgramming.exe
+D:\Progarmacion\C-\FunctionalProgramming\bin\Debug\FunctionalProgramming.pdb
+D:\Progarmacion\C-\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\FunctionalProgramming\obj\Debug\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\FunctionalProgramming\obj\Debug\FunctionalProgramming.exe
+D:\Progarmacion\C-\FunctionalProgramming\obj\Debug\FunctionalProgramming.pdb
