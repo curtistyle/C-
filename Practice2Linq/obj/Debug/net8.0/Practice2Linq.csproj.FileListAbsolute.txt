@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\Practice2Linq\bin\Debug\net8.0\Practice2Linq.exe
+D:\Progarmacion\C-\Practice2Linq\bin\Debug\net8.0\Practice2Linq.deps.json
+D:\Progarmacion\C-\Practice2Linq\bin\Debug\net8.0\Practice2Linq.runtimeconfig.json
+D:\Progarmacion\C-\Practice2Linq\bin\Debug\net8.0\Practice2Linq.dll
+D:\Progarmacion\C-\Practice2Linq\bin\Debug\net8.0\Practice2Linq.pdb
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.AssemblyInfo.cs
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.sourcelink.json
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.dll
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\refint\Practice2Linq.dll
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.pdb
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\Practice2Linq.genruntimeconfig.cache
+D:\Progarmacion\C-\Practice2Linq\obj\Debug\net8.0\ref\Practice2Linq.dll

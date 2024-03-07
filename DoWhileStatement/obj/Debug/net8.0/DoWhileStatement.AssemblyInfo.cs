@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoWhileStatement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05a24eb662c3e3bbbb5ed66a29d29275fbe6a4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0233db73288ae319329e4797756d5f4a68319d1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoWhileStatement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoWhileStatement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

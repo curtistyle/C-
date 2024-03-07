@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\DictionaryCollection\obj\Debug\DictionaryCollection.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\DictionaryCollection\obj\Debug\DictionaryCollection.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\DictionaryCollection\bin\Debug\DictionaryCollection.exe.config
+D:\Progarmacion\C-\DictionaryCollection\bin\Debug\DictionaryCollection.exe
+D:\Progarmacion\C-\DictionaryCollection\bin\Debug\DictionaryCollection.pdb
+D:\Progarmacion\C-\DictionaryCollection\obj\Debug\DictionaryCollection.exe
+D:\Progarmacion\C-\DictionaryCollection\obj\Debug\DictionaryCollection.pdb

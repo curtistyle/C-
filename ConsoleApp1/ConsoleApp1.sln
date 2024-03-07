@@ -87,6 +87,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "..\Delegates\D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "..\FunctionalProgramming\FunctionalProgramming.csproj", "{5FD4CCAE-44C8-40B1-BA04-D13403101401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2Linq", "..\Practice2Linq\Practice2Linq.csproj", "{49EC4BBE-DB73-4D40-8249-C06539FF911F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryCollection", "..\DictionaryCollection\DictionaryCollection.csproj", "{0FF542FB-8F9B-41A8-B0B0-680C23DA250B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +265,14 @@ Global
 		{5FD4CCAE-44C8-40B1-BA04-D13403101401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FD4CCAE-44C8-40B1-BA04-D13403101401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FD4CCAE-44C8-40B1-BA04-D13403101401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EC4BBE-DB73-4D40-8249-C06539FF911F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EC4BBE-DB73-4D40-8249-C06539FF911F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EC4BBE-DB73-4D40-8249-C06539FF911F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EC4BBE-DB73-4D40-8249-C06539FF911F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF542FB-8F9B-41A8-B0B0-680C23DA250B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF542FB-8F9B-41A8-B0B0-680C23DA250B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF542FB-8F9B-41A8-B0B0-680C23DA250B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF542FB-8F9B-41A8-B0B0-680C23DA250B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
