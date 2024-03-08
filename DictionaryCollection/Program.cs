@@ -32,6 +32,8 @@ namespace DictionaryCollection
             {
                 var key = word.ToLower(); // get word in lowercase
 
+                Console.WriteLine("> "+key);
+
                 // if the dictionary contains the word
                 if (dictionary.ContainsKey(key))
                 {

@@ -1,10 +1,25 @@
-﻿// Promotion rules 197
+﻿string name = "Curtis Style";
 
-char word = '2';
+Console.WriteLine(name);
 
-Console.WriteLine($"{word.GetType().Name} = {word}");
+var nameSplit = name.Split(" ").ToList();
 
-int entero = (int) word;
+var newList =
+    nameSplit.Select((value, index) => (value,index))
+    .Where((value, index) => index == 0)
+    .First();
 
-Console.WriteLine($"{entero.GetType().Name} = {entero}");
+Console.WriteLine("nameSplit: ");
+foreach (var item in nameSplit)
+{
+    Console.Write($"{item}, ");
+}
+Console.WriteLine();
+Console.WriteLine("newList: ");
+Console.WriteLine(newList.value);
 
+
+/*foreach (var element in newList)
+{
+    Console.Write($"{element}, ");
+}*/

@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\ThisIsJSON\bin\Debug\ThisIsJSON.exe.config
+D:\Progarmacion\C-\ThisIsJSON\bin\Debug\ThisIsJSON.exe
+D:\Progarmacion\C-\ThisIsJSON\bin\Debug\ThisIsJSON.pdb
+D:\Progarmacion\C-\ThisIsJSON\obj\Debug\ThisIsJSON.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\ThisIsJSON\obj\Debug\ThisIsJSON.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsJSON\obj\Debug\ThisIsJSON.exe
+D:\Progarmacion\C-\ThisIsJSON\obj\Debug\ThisIsJSON.pdb

@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\ThisIsTask3\obj\Debug\ThisIsTask3.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\ThisIsTask3\obj\Debug\ThisIsTask3.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsTask3\bin\Debug\ThisIsTask3.exe.config
+D:\Progarmacion\C-\ThisIsTask3\bin\Debug\ThisIsTask3.exe
+D:\Progarmacion\C-\ThisIsTask3\bin\Debug\ThisIsTask3.pdb
+D:\Progarmacion\C-\ThisIsTask3\obj\Debug\ThisIsTask3.exe
+D:\Progarmacion\C-\ThisIsTask3\obj\Debug\ThisIsTask3.pdb

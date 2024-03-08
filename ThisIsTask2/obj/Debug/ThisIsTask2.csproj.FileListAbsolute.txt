@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\ThisIsTask2\bin\Debug\ThisIsTask2.exe.config
+D:\Progarmacion\C-\ThisIsTask2\bin\Debug\ThisIsTask2.exe
+D:\Progarmacion\C-\ThisIsTask2\bin\Debug\ThisIsTask2.pdb
+D:\Progarmacion\C-\ThisIsTask2\obj\Debug\ThisIsTask2.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\ThisIsTask2\obj\Debug\ThisIsTask2.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\ThisIsTask2\obj\Debug\ThisIsTask2.exe
+D:\Progarmacion\C-\ThisIsTask2\obj\Debug\ThisIsTask2.pdb
