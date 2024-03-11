@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\bin\Debug\net8.0\Recur1.exe
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\bin\Debug\net8.0\Recur1.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\bin\Debug\net8.0\Recur1.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\bin\Debug\net8.0\Recur1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\bin\Debug\net8.0\Recur1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\refint\Recur1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\Recur1.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\Recur1\obj\Debug\net8.0\ref\Recur1.dll

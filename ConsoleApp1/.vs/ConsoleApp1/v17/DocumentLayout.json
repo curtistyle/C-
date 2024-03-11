@@ -6,22 +6,13 @@
       "AbsoluteMoniker": "D:0:0:{20E019D0-1A33-4F05-9CBF-8BC1FCD7C3C9}|..\\ThisIsJSON\\ThisIsJSON.csproj|d:\\progarmacion\\c-\\thisisjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AA6D001-54AE-4317-AF3A-6E26161DA193}|..\\ExtensionMethods\\ExtensionMethods.csproj|d:\\progarmacion\\c-\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E822FD77-4DE7-494E-91D1-D470E6CB839D}|..\\ThisIsTask3\\ThisIsTask3.csproj|d:\\progarmacion\\c-\\thisistask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC23048D-A166-41E2-9928-688B70D057F2}|..\\ArrayOfIntValuesUsingLINQ\\ArrayOfIntValuesUsingLINQ.csproj|d:\\progarmacion\\c-\\arrayofintvaluesusinglinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97D3B2B0-F369-47D3-862F-46A9AD25B3BE}|..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj|d:\\progarmacion\\c-\\thisislistandusinglinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{526490A1-AF62-4E39-B0D9-68A8FC7A6779}|..\\Test\\Test.csproj|d:\\progarmacion\\c-\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FD4CCAE-44C8-40B1-BA04-D13403101401}|..\\FunctionalProgramming\\FunctionalProgramming.csproj|d:\\progarmacion\\c-\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E019D0-1A33-4F05-9CBF-8BC1FCD7C3C9}|..\\ThisIsJSON\\ThisIsJSON.csproj|d:\\progarmacion\\c-\\thisisjson\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C7325B-806F-454A-BA54-AC54F7DCBF09}|..\\Inheritance\\Inheritance.csproj|d:\\progarmacion\\c-\\inheritance\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97D3B2B0-F369-47D3-862F-46A9AD25B3BE}|..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj|d:\\progarmacion\\c-\\thisislistandusinglinq\\thisislistandusinglinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,84 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ExtensionMethods\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ExtensionMethods\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ExtensionMethods\\Program.cs",
-              "RelativeToolTip": "..\\ExtensionMethods\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T00:59:24.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Test\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\Test\\Program.cs",
-              "RelativeToolTip": "..\\Test\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T23:37:46.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CommissionEmployee.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\Inheritance\\CommissionEmployee.cs",
-              "RelativeDocumentMoniker": "..\\Inheritance\\CommissionEmployee.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\Inheritance\\CommissionEmployee.cs",
-              "RelativeToolTip": "..\\Inheritance\\CommissionEmployee.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T22:56:04.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\FunctionalProgramming\\Program.cs",
-              "RelativeDocumentMoniker": "..\\FunctionalProgramming\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\FunctionalProgramming\\Program.cs",
-              "RelativeToolTip": "..\\FunctionalProgramming\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T22:42:25.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Readme.md",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsJSON\\Readme.md",
-              "RelativeDocumentMoniker": "..\\ThisIsJSON\\Readme.md",
-              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsJSON\\Readme.md",
-              "RelativeToolTip": "..\\ThisIsJSON\\Readme.md",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-03-07T22:34:08.352Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ArrayOfIntValuesUsingLINQ\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ArrayOfIntValuesUsingLINQ\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ArrayOfIntValuesUsingLINQ\\Program.cs",
-              "RelativeToolTip": "..\\ArrayOfIntValuesUsingLINQ\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ThisIsListAndUsingLINQ\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\Program.cs",
+              "RelativeToolTip": "..\\ThisIsListAndUsingLINQ\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T22:26:13.263Z",
+              "WhenOpened": "2024-03-09T00:19:18.328Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -119,9 +46,35 @@
               "RelativeDocumentMoniker": "..\\ThisIsJSON\\Program.cs",
               "ToolTip": "D:\\Progarmacion\\C-\\ThisIsJSON\\Program.cs",
               "RelativeToolTip": "..\\ThisIsJSON\\Program.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAAAAAEMAAAAVAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T21:58:36.955Z",
+              "WhenOpened": "2024-03-09T00:56:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsTask3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ThisIsTask3\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsTask3\\Program.cs",
+              "RelativeToolTip": "..\\ThisIsTask3\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T00:22:09.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThisIsListAndUsingLINQ",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
+              "RelativeDocumentMoniker": "..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
+              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
+              "RelativeToolTip": "..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T00:19:15.189Z",
               "EditorCaption": ""
             }
           ]

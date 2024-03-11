@@ -9,7 +9,7 @@ namespace ThisIsTask3
 {
     internal class Program
     {
-        static void Main(string[] args)
+        async static Task Main(string[] args)
         {
 
             Task<int> tarea1 = Task.Run(() =>
@@ -25,6 +25,20 @@ namespace ThisIsTask3
                 }
                 return ac;
             });
+
+            async Task<int> TareaBuena()
+            {
+                int ac = 0;
+                var idThread = Thread.CurrentThread.ManagedThreadId;
+                for (int i = 0; i < 5; i++)
+                {
+                    Console.WriteLine($"Tarea1 - IDThread: {idThread}");
+                    await Task.Delay(1000);
+
+                    ac += i;
+                }
+                return ac;
+            }
 
 /*            var tarea1 = new Task<int>(() => 
             {
@@ -42,7 +56,7 @@ namespace ThisIsTask3
 
             
             tarea1.Wait();
-            Console.WriteLine(tarea1.Result);
+            Console.WriteLine(await TareaBuena());
 
             Console.ReadLine();
 
