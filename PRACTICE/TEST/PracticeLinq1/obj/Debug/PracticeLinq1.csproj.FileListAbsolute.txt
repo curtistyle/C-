@@ -5,3 +5,10 @@ D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq1\bin\Debug\PracticeLinq1.exe
 D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq1\bin\Debug\PracticeLinq1.pdb
 D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq1\obj\Debug\PracticeLinq1.exe
 D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq1\obj\Debug\PracticeLinq1.pdb
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\bin\Debug\PracticeLinq1.exe.config
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\bin\Debug\PracticeLinq1.exe
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\bin\Debug\PracticeLinq1.pdb
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\obj\Debug\PracticeLinq1.csproj.AssemblyReference.cache
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\obj\Debug\PracticeLinq1.csproj.CoreCompileInputs.cache
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\obj\Debug\PracticeLinq1.exe
+C:\Users\seb_c\Documents\GitHub\C-\PRACTICE\TEST\PracticeLinq1\obj\Debug\PracticeLinq1.pdb

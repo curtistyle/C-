@@ -11,33 +11,52 @@ namespace PracticeLinq1
 
     public class Program
     {
+        private const double V = 0.5;
+
         static void Main(string[] args)
         {
             var listOfPerson2 = new List<Person>
             {
-                new Person("Curtis", "Concepcion del Uruguay", 23),
-                new Person("Marcos", "Urdinarrain", 23),
-                new Person("Agustin", "Gualeguay", 30),
-                new Person("Nicolas", "Urdinarrain", 22),
-                new Person("Tomas", "Concepcion del Uruguay", 24),
-                new Person("Gabriel", "Lucas Gonzales", 23)
+                new Person("Curtis", "Concepcion del Uruguay", 23, 1000),
+                new Person("Marcos", "Urdinarrain", 23, 1000),
+                new Person("Agustin", "Gualeguay", 30, 1000),
+                new Person("Nicolas", "Urdinarrain", 22, 1000),
+                new Person("Tomas", "Concepcion del Uruguay", 24, 1000),
+                new Person("Gabriel", "Lucas Gonzales", 23, 1000)
             };
 
             var listOfPerson = new[] { 
-                new Person(null, "Concepcion del Uruguay", 23),
-                new Person("Marcos", "Urdinarrain", 23),
-                new Person("Agustin", "Gualeguay", 30),
-                new Person("Nicolas", "Urdinarrain", 22),
-                new Person("Tomas", "Concepcion del Uruguay", 24),
-                new Person("Gabriel", "Lucas Gonzales", 23)
+                new Person("Curtis", "Concepcion del Uruguay", 23, 1000),
+                new Person("Marcos", "Urdinarrain", 23, 1000),
+                new Person("Agustin", "Gualeguay", 18, 1000),
+                new Person("Nicolas", "Urdinarrain", 17, 1000),
+                new Person("Tomas", "Concepcion del Uruguay", 24, 1000),
+                new Person("Gabriel", "Lucas Gonzales", 23, 1000),
+                new Person("Martin", "Urdinarrain", 17, 1000),
+                new Person("Brian", "Gualeguay", 23, 1000),
+                new Person("John", "Concepcion del Uruguay", 23, 1000)
             };
 
 
 
             listOfPerson2.Where(value => value.Country == "Concepcion del Uruguay")
-            .Display();
+                .Display();
 
-            Extension.Display<Person>();
+            Console.WriteLine();
+
+            listOfPerson.Where(value => value.Age > 19)
+                .Display();
+
+            Console.WriteLine();
+
+            var newList =
+            listOfPerson.Where(value => value.Age > 19)
+                .Select( value => value.Salary.
+                
+
+            newList.Display();
+
+            //Extension.Display<Person>();
 /*
             IEnumerable<Person> filterCity =
             listOfPerson2.Where(value => value.Country == "Concepcion del Uruguay")
@@ -60,16 +79,18 @@ namespace PracticeLinq1
         public string FullName { get; set; }
         public string Country { get; set; }
         public int Age { get; set; }
+        public double Salary { get; set; }
 
-        public Person(string fullName, string country, int age)
+        public Person(string fullName, string country, int age, double salary)
         {
             FullName = fullName ?? string.Empty;
             Country = country ?? throw new ArgumentNullException(nameof(country));
+            Salary = salary;
             Age = age;
         } 
 
         public override string ToString() =>
-            $"{"GetType().Name"}( {FullName}, {Country}, {Age} )";
+            $"{"GetType().Name"}( {FullName}, {Country}, {Age}, {Salary} )";
 
     }
 
@@ -84,6 +105,13 @@ namespace PracticeLinq1
 
         }
 
+        public static IEnumerable<double> Aumento(this IEnumerable<double> list)
+        {
+            for (int i =)
+
+            return list
+        }
+/*
         /// <summary>
         /// asdasda 
         /// 
@@ -93,7 +121,7 @@ namespace PracticeLinq1
         {
             Console.WriteLine(typeof(T).FullName);
         }
-
+*/
         /*
                 public static IEnumerable<T> Display<T>(this IEnumerable<T> lyst)
                 {
