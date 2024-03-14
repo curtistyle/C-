@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\bin\Debug\net8.0\PRACTICE2.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\bin\Debug\net8.0\PRACTICE2.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\bin\Debug\net8.0\PRACTICE2.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\bin\Debug\net8.0\PRACTICE2.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\bin\Debug\net8.0\PRACTICE2.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\refint\PRACTICE2.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\PRACTICE2.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE2\obj\Debug\net8.0\ref\PRACTICE2.dll

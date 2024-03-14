@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C19636D-8E9D-4EC4-9D3C-22CAC6E9723B}|FibonacciAsynchronous\\FibonacciAsynchronous.csproj|d:\\progarmacion\\c-\\practice\\test\\fibonacciasynchronous\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C19636D-8E9D-4EC4-9D3C-22CAC6E9723B}|FibonacciAsynchronous\\FibonacciAsynchronous.csproj|solutionrelative:fibonacciasynchronous\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A26C7702-B1EF-4E3C-82E5-03C38C1A66E4}|FibonacciSynchronous\\FibonacciSynchronous.csproj|d:\\progarmacion\\c-\\practice\\test\\fibonaccisynchronous\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A26C7702-B1EF-4E3C-82E5-03C38C1A66E4}|FibonacciSynchronous\\FibonacciSynchronous.csproj|solutionrelative:fibonaccisynchronous\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}|PracticeLinq4\\PracticeLinq4.csproj|d:\\progarmacion\\c-\\practice\\test\\practicelinq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}|PracticeLinq4\\PracticeLinq4.csproj|solutionrelative:practicelinq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\FibonacciAsynchronous\\Form1.cs",
-              "RelativeDocumentMoniker": "FibonacciAsynchronous\\Form1.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\FibonacciAsynchronous\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FibonacciAsynchronous\\Form1.cs [Dise\u00F1o]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PracticeLinq4\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeLinq4\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PracticeLinq4\\Program.cs",
+              "RelativeToolTip": "PracticeLinq4\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T18:15:50.032Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\FibonacciSynchronous\\App.config",
-              "RelativeDocumentMoniker": "FibonacciSynchronous\\App.config",
-              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\FibonacciSynchronous\\App.config",
-              "RelativeToolTip": "FibonacciSynchronous\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-11T18:13:01.623Z",
+              "WhenOpened": "2024-03-13T23:26:25.35Z",
               "EditorCaption": ""
             }
           ]

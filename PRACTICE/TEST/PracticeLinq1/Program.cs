@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Schema;
@@ -38,31 +40,34 @@ namespace PracticeLinq1
             };
 
 
-
-            listOfPerson2.Where(value => value.Country == "Concepcion del Uruguay")
-                .Display();
-
-            Console.WriteLine();
-
-            listOfPerson.Where(value => value.Age > 19)
-                .Display();
-
-            Console.WriteLine();
-
-            var newList =
-            listOfPerson.Where(value => value.Age > 19)
-                .Select( value => value.Salary.
+            
+                
                 
 
-            newList.Display();
+            
+
+/*            listOfPerson2.Where(value => value.Country == "Concepcion del Uruguay")
+                .Display();
+
+            Console.WriteLine();
+
+            var ll =
+            listOfPerson.Where(value => value.Age > 19)
+                .Select(value => value)
+                .Aumento("Salary", 0.5F);
+                
+            ll.Display();
+
+            Console.WriteLine();*/
+
+            
 
             //Extension.Display<Person>();
-/*
-            IEnumerable<Person> filterCity =
-            listOfPerson2.Where(value => value.Country == "Concepcion del Uruguay")
-            .Display();
-*/
-
+            /*
+                        IEnumerable<Person> filterCity =
+                        listOfPerson2.Where(value => value.Country == "Concepcion del Uruguay")
+                        .Display();
+            */
 
 
             //filterCity.Display();
@@ -87,7 +92,18 @@ namespace PracticeLinq1
             Country = country ?? throw new ArgumentNullException(nameof(country));
             Salary = salary;
             Age = age;
-        } 
+        }
+
+        public Person IncreseSalary(float porcent)
+        {
+            Salary *= porcent;
+            return this;
+        }
+
+        public Person GetPerson()
+        {
+            return this;
+        }
 
         public override string ToString() =>
             $"{"GetType().Name"}( {FullName}, {Country}, {Age}, {Salary} )";
@@ -105,11 +121,16 @@ namespace PracticeLinq1
 
         }
 
-        public static IEnumerable<double> Aumento(this IEnumerable<double> list)
-        {
-            for (int i =)
 
-            return list
+        public static IEnumerable<T> Aumento<T>(this IEnumerable<T> list, string propertyName, float value)
+        {
+            foreach (var item in list)
+            {
+                var prop = item.GetType().GetProperty(propertyName);
+                prop.SetValue(item, value);
+            }
+
+            return list;
         }
 /*
         /// <summary>

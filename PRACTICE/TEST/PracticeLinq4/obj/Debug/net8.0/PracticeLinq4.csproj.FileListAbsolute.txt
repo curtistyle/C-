@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\bin\Debug\net8.0\PracticeLinq4.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\bin\Debug\net8.0\PracticeLinq4.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\bin\Debug\net8.0\PracticeLinq4.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\bin\Debug\net8.0\PracticeLinq4.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\bin\Debug\net8.0\PracticeLinq4.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\refint\PracticeLinq4.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\PracticeLinq4.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq4\obj\Debug\net8.0\ref\PracticeLinq4.dll

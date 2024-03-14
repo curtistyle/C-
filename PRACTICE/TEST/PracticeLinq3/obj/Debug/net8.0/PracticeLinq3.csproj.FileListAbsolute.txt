@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\bin\Debug\net8.0\PracticeLinq3.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\bin\Debug\net8.0\PracticeLinq3.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\bin\Debug\net8.0\PracticeLinq3.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\bin\Debug\net8.0\PracticeLinq3.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\bin\Debug\net8.0\PracticeLinq3.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\refint\PracticeLinq3.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\PracticeLinq3.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq3\obj\Debug\net8.0\ref\PracticeLinq3.dll
