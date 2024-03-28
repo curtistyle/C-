@@ -1,0 +1,17 @@
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\bin\Debug\net8.0-windows\ListViewControl.exe
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\bin\Debug\net8.0-windows\ListViewControl.deps.json
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\bin\Debug\net8.0-windows\ListViewControl.runtimeconfig.json
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\bin\Debug\net8.0-windows\ListViewControl.dll
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\bin\Debug\net8.0-windows\ListViewControl.pdb
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.Form1.resources
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.csproj.GenerateResource.cache
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.AssemblyInfo.cs
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.sourcelink.json
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.dll
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\refint\ListViewControl.dll
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.pdb
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ListViewControl.genruntimeconfig.cache
+D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\ListViewControl\obj\Debug\net8.0-windows\ref\ListViewControl.dll

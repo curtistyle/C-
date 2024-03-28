@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\bin\Debug\net8.0\FileJSON.exe
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\bin\Debug\net8.0\FileJSON.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\bin\Debug\net8.0\FileJSON.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\bin\Debug\net8.0\FileJSON.dll
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\bin\Debug\net8.0\FileJSON.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.dll
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\refint\FileJSON.dll
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\FileJSON.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\FileJSON\obj\Debug\net8.0\ref\FileJSON.dll

@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\bin\Debug\net8.0\Socket1.exe
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\bin\Debug\net8.0\Socket1.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\bin\Debug\net8.0\Socket1.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\bin\Debug\net8.0\Socket1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\bin\Debug\net8.0\Socket1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\refint\Socket1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\Socket1.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\Socket1\obj\Debug\net8.0\ref\Socket1.dll

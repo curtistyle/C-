@@ -1,0 +1,24 @@
+{
+  "words": {
+    "english": [
+      {
+        "value": "because",
+        "key": 1
+      }
+    ],
+    "spanish": [
+      {
+        "value": "ya que",
+        "key": 1
+      },
+      {
+        "value": "asdasdas",
+        "key": 1
+      },
+      {
+        "value": "pues",
+        "key": 1
+      }
+    ]
+  }
+}

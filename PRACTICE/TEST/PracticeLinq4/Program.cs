@@ -1,4 +1,6 @@
-﻿int[] list1 = new int[] { 1, 2, 3, 4, 5 };
+﻿using System.Linq.Expressions;
+
+int[] list1 = new int[] { 1, 2, 3, 4, 5 };
 int[] list2 = new int[] {4, 5, 6, 7, 8, 9 };
 
 // unir 2 arreglos
@@ -69,11 +71,26 @@ Console.WriteLine(list6.All(value => value > 5));
 
 //
 
-var beerBrand = new List<(string Name, List<string> Beer)>
+var beerBrand = new List<(string Name, List<string> Beers)>
 {
     ("Erdinger", new List<string> {"Pikantus", "Dunkel"}),
     ("Delirium", new List<string> {"Tremes", "Red"}),
 };
 
-var beerDetail = 
-    beerBrand.SelectMany(())
+var beerDetail =
+    beerBrand.SelectMany(beersBrand => beersBrand.Beers,
+        (beerBrand, beer) => new { beerBrand, beer }
+        ).Select(beerBrand =>
+        {
+            return new
+            {
+                BrandName = beerBrand.beerBrand.Name,
+                BeerName = beerBrand.beer,
+            };
+        });
+
+Console.WriteLine("\n");
+beerDetail.ToList().ForEach(x =>
+{
+    Console.WriteLine($"{x.BrandName} {x.BeerName}");
+});

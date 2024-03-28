@@ -21,11 +21,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRACTICE3", "PRACTICE3\PRAC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeLinq2", "PracticeLinq2\PracticeLinq2.csproj", "{33FF44ED-BA87-493F-B5A5-91CD431468F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeLinq3", "PracticeLinq3\PracticeLinq3.csproj", "{E59A6696-C5F1-43BA-BAEE-8C40CCBD8C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeLinq3", "PracticeLinq3\PracticeLinq3.csproj", "{E59A6696-C5F1-43BA-BAEE-8C40CCBD8C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentsOfDB", "FundamentsOfDB\FundamentsOfDB.csproj", "{BACE90EE-0E33-4293-A13B-04989915063D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentsOfDB", "FundamentsOfDB\FundamentsOfDB.csproj", "{BACE90EE-0E33-4293-A13B-04989915063D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeLinq4", "PracticeLinq4\PracticeLinq4.csproj", "{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeLinq4", "PracticeLinq4\PracticeLinq4.csproj", "{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeFuncProg1", "PracticeFuncProg1\PracticeFuncProg1.csproj", "{3929D3A7-374D-4D41-B10E-8E77E4BFE4EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{C5A0FCB7-3862-42AD-ADA7-3F9BD46C6D41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeFuncProg2", "PracticeFuncProg2\PracticeFuncProg2.csproj", "{3282B69A-AF0E-4CD5-B06D-61C58EC0B717}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PythonScrpt", "PythonScrpt\PythonScrpt.csproj", "{2ACCF4FE-0F85-4A1B-9A62-2F96CF48D395}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Socket1", "Socket1\Socket1.csproj", "{FEB8269B-91C0-4422-A1DD-D39D9F105EBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Socket1_server", "Socket1_server\Socket1_server.csproj", "{84741620-A7F0-4585-AD1A-16F3D49896F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileJSON", "FileJSON\FileJSON.csproj", "{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +95,34 @@ Global
 		{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F1CC7F-EB31-450C-A5BA-3DC042C7DD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3929D3A7-374D-4D41-B10E-8E77E4BFE4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3929D3A7-374D-4D41-B10E-8E77E4BFE4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3929D3A7-374D-4D41-B10E-8E77E4BFE4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3929D3A7-374D-4D41-B10E-8E77E4BFE4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A0FCB7-3862-42AD-ADA7-3F9BD46C6D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A0FCB7-3862-42AD-ADA7-3F9BD46C6D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A0FCB7-3862-42AD-ADA7-3F9BD46C6D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A0FCB7-3862-42AD-ADA7-3F9BD46C6D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3282B69A-AF0E-4CD5-B06D-61C58EC0B717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3282B69A-AF0E-4CD5-B06D-61C58EC0B717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3282B69A-AF0E-4CD5-B06D-61C58EC0B717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3282B69A-AF0E-4CD5-B06D-61C58EC0B717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACCF4FE-0F85-4A1B-9A62-2F96CF48D395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACCF4FE-0F85-4A1B-9A62-2F96CF48D395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACCF4FE-0F85-4A1B-9A62-2F96CF48D395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACCF4FE-0F85-4A1B-9A62-2F96CF48D395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB8269B-91C0-4422-A1DD-D39D9F105EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB8269B-91C0-4422-A1DD-D39D9F105EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB8269B-91C0-4422-A1DD-D39D9F105EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB8269B-91C0-4422-A1DD-D39D9F105EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84741620-A7F0-4585-AD1A-16F3D49896F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84741620-A7F0-4585-AD1A-16F3D49896F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84741620-A7F0-4585-AD1A-16F3D49896F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84741620-A7F0-4585-AD1A-16F3D49896F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

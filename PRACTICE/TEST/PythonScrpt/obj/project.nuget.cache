@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F+I9hKi/ok9qF0I+2r8UcpmwKMFFixNhSzjlUwnsSkfnlyWp4cudF26199ehvAuCQ5lHvGddqspnkMkDTRvsA==",
+  "success": true,
+  "projectFilePath": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PythonScrpt\\PythonScrpt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Curtis\\.nuget\\packages\\dynamiclanguageruntime\\1.3.4\\dynamiclanguageruntime.1.3.4.nupkg.sha512",
+    "C:\\Users\\Curtis\\.nuget\\packages\\ironpython\\3.4.1\\ironpython.3.4.1.nupkg.sha512",
+    "C:\\Users\\Curtis\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\Curtis\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
