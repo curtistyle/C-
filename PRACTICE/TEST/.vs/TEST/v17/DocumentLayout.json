@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|d:\\progarmacion\\c-\\practice\\test\\appdict\\myfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|solutionrelative:appdict\\myfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}|FileJSON\\FileJSON.csproj|d:\\progarmacion\\c-\\practice\\test\\filejson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94E7694-B0ED-42E8-8A2A-E2FDBEF51C0E}|FileJSON\\FileJSON.csproj|solutionrelative:filejson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|D:\\Progarmacion\\C-\\PRACTICE\\TEST\\appdict\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|solutionrelative:appdict\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|D:\\Progarmacion\\C-\\PRACTICE\\TEST\\appdict\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|solutionrelative:appdict\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|D:\\Progarmacion\\C-\\PRACTICE\\TEST\\appdict\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|solutionrelative:appdict\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|D:\\Progarmacion\\C-\\PRACTICE\\TEST\\appdict\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|solutionrelative:appdict\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|d:\\progarmacion\\c-\\practice\\test\\appdict\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C63C1D0-9DC3-40E4-8D16-D4F8EEA358E8}|AppDict\\AppDict.csproj|solutionrelative:appdict\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\FileJSON\\Program.cs",
+              "RelativeDocumentMoniker": "FileJSON\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\FileJSON\\Program.cs",
+              "RelativeToolTip": "FileJSON\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:52:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFile.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\MyFile.cs",
+              "RelativeDocumentMoniker": "AppDict\\MyFile.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\MyFile.cs",
+              "RelativeToolTip": "AppDict\\MyFile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:43:07.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Resource.cs",
+              "RelativeDocumentMoniker": "AppDict\\Resource.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Resource.cs",
+              "RelativeToolTip": "AppDict\\Resource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:44:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Controller.cs",
+              "RelativeDocumentMoniker": "AppDict\\Controller.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Controller.cs",
+              "RelativeToolTip": "AppDict\\Controller.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAIAwwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:48:45.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Dictionary.cs",
+              "RelativeDocumentMoniker": "AppDict\\Dictionary.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Dictionary.cs",
+              "RelativeToolTip": "AppDict\\Dictionary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:19:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Word.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Word.cs",
+              "RelativeDocumentMoniker": "AppDict\\Word.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Word.cs",
+              "RelativeToolTip": "AppDict\\Word.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwGsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:20:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Program.cs",
+              "RelativeDocumentMoniker": "AppDict\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\AppDict\\Program.cs",
+              "RelativeToolTip": "AppDict\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T04:18:41.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

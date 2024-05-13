@@ -27,11 +27,66 @@ Action<List<string>> Display = (value) =>
 
 Display(filterList);
 */
+/*
+string[] myList = { "Sustantivo", "Adjetivo", "Verbo", "Adverbio" };
+
+
+foreach (string item in Enum.GetNames<CategoriaGramatical>())
+{
+	Console.WriteLine(item);	
+}
+
+
+foreach (string element in Enum.GetNames(typeof(CategoriaGramatical)))
+{
+	Console.WriteLine(element);
+}
+*/
+/*
+string[] lyst =
+{
+	"Carlos",
+	"Alan",
+	"Pepe",
+	"Curtis",
+	"Willi",
+	"Sebaz"
+};
+
+
+foreach (var item in lyst)
+{
+	Console.WriteLine(item);
+}
+
+var lystOrder = lyst.Order();
+
+foreach (var item in lystOrder)
+{
+	Console.WriteLine(item);
+}
+*/
 
 
 
+foreach (var item in Enum.GetValues(typeof(CategoriaGramatical)))
+{
+	Console.WriteLine(item.GetHashCode());
+}
 
-string palabra = "asd";
+enum CategoriaGramatical
+{
+	Sustantivo,
+	Adjetivo,
+	Verbo,
+	Pronombre,
+	Adverbio,
+	Preposicion
+}
 
 
-Console.WriteLine(palabra.GetHashCode());
+
+/*string[] myList = { "1", "2", "3", "4" };
+
+
+Console.WriteLine(myList.Any(value => (value == "5")));*/

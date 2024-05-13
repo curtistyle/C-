@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\bin\Debug\AppDict.exe.config
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\bin\Debug\AppDict.exe
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\bin\Debug\AppDict.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\obj\Debug\AppDict.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\obj\Debug\AppDict.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\obj\Debug\AppDict.exe
+D:\Progarmacion\C-\PRACTICE\TEST\AppDict\obj\Debug\AppDict.pdb

@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\bin\Debug\PRACTICE4.exe.config
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\bin\Debug\PRACTICE4.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\bin\Debug\PRACTICE4.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\obj\Debug\PRACTICE4.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\obj\Debug\PRACTICE4.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\obj\Debug\PRACTICE4.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PRACTICE4\obj\Debug\PRACTICE4.pdb
