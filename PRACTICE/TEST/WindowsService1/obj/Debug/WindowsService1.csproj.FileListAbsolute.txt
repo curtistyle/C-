@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\bin\Debug\WindowsService1.exe
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\obj\Debug\WindowsService1.exe
+D:\Progarmacion\C-\PRACTICE\TEST\WindowsService1\obj\Debug\WindowsService1.pdb

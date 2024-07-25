@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\bin\Debug\net8.0\UseIEnumerable.exe
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\bin\Debug\net8.0\UseIEnumerable.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\bin\Debug\net8.0\UseIEnumerable.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\bin\Debug\net8.0\UseIEnumerable.dll
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\bin\Debug\net8.0\UseIEnumerable.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.dll
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\refint\UseIEnumerable.dll
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\UseIEnumerable.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable\obj\Debug\net8.0\ref\UseIEnumerable.dll

@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\bin\Debug\UseIEnumerable2.exe.config
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\bin\Debug\UseIEnumerable2.exe
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\bin\Debug\UseIEnumerable2.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\obj\Debug\UseIEnumerable2.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\obj\Debug\UseIEnumerable2.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\obj\Debug\UseIEnumerable2.exe
+D:\Progarmacion\C-\PRACTICE\TEST\UseIEnumerable2\obj\Debug\UseIEnumerable2.pdb

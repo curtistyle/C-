@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\bin\Debug\net8.0\PracticeDictionary.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\bin\Debug\net8.0\PracticeDictionary.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\bin\Debug\net8.0\PracticeDictionary.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\bin\Debug\net8.0\PracticeDictionary.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\bin\Debug\net8.0\PracticeDictionary.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\refint\PracticeDictionary.dll
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\PracticeDictionary.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeDictionary\obj\Debug\net8.0\ref\PracticeDictionary.dll

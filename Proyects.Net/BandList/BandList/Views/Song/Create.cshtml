@@ -1,0 +1,80 @@
+﻿@using BandList.Models.ViewModels
+@model SongViewModel
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create" method="post"> 
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+			<!-- SELECT ARTIST -->
+			<div class="form-group">
+				<label asp-for="ArtistId" class="control-label"></label>
+				<select id="artist" asp-for="ArtistId" class="form-control" asp-items="ViewBag.Artist">
+					<option>Select Artis</option>
+				</select>
+			</div>
+
+			<!-- SELECT ALBUM -->
+			<div class="form-group">
+				<label asp-for="AlbumId" class="control-label"></label>
+				<select id="album" asp-for="AlbumId" class="form-control">
+					<option>Select Album</option>
+				</select>
+			</div>
+
+			<!-- INPUT -->
+			<div class="card p-2 mt-2">
+
+				<!-- INPUT SONG TITLE-->
+				<div class="form-group">
+					<label asp-for="Title" class="control-label" ></label>
+					<input id="song" class="form-control" asp-for="Title" />
+					<span asp-validation-for="Title" class="text-danger"></span>
+				</div>
+
+				<!-- INPUT SONG DURATION -->
+				<div class="form-group">
+					<label asp-for="Duration" class="control-label"></label>
+					<input id="duration" asp-for="Duration" class="form-control" />
+				</div>
+
+				<!-- BUTTON FORM-->
+				<div class="form-group mt-2">
+					<input type="submit" value="Crear" class="btn btn-primary" />
+				</div>
+			</div>
+
+		</form>
+	</div>
+</div>
+@section Scripts {
+	<script>
+		$('#artist').change(function () {
+			var artistId = $(this).val();
+			console.log("artistId=" + artistId)
+			$('#album').html('<option>Select Album</option>');
+
+			console.log('@Url.Action("OnGetAlbumModel", "Song")');
+
+			$.getJSON('/Song/OnGetAlbumModel', { artistId: artistId }, function (data) {
+				console.log(data);
+				$.each(data, function (key, value) {
+					var options = $('<option></option>').attr('value', value.albumId).text(value.title);
+
+					$('#album').append(options);
+				});
+			});
+		});
+
+		$('#song, #duration').attr('disabled', true);
+		$('#album').change(function () {
+			if ($(this).val() == "Select Album") {
+				$('#song, #duration').attr('disabled', true);
+			}
+			else {
+				$('#song, #duration').attr('disabled', false);
+			}
+		});
+
+	</script>
+}

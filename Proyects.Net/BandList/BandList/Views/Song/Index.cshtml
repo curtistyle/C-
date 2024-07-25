@@ -1,0 +1,77 @@
+﻿@model List<Song>
+
+@if(TempData["AlertMessage"] != null)
+{
+	<div class="alert alert-success" role="alert">
+		@TempData["AlertMessage"]
+	</div>
+}
+
+<p>
+	<a asp-action="Create">Crear</a>
+</p>
+
+<table class="table" id="songsTable">
+	<thead>
+		<tr>
+			<th>Artist</th>
+			<th>Album</th>
+			<th>Title</th>
+			<th>Duration</th>
+			<th>Operations</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var song in Model)
+		{
+			<tr>
+				<td>@Html.DisplayFor(value => song.Album.Artist.Name)</td>
+				<td>@Html.DisplayFor(value => song.Album.Title)</td>
+				<td>@Html.DisplayFor(value => song.Title)</td>
+				<td>@Html.DisplayFor(value => song.Duration)</td>
+				<td>
+					<!--// asp-route-id="@song.SongId" -->
+					<!-- //  asp-controller="Song" -->
+					<!-- //  -->
+					<!-- // <a class="btn btn-warning" asp-action="Remove" asp-route-id="@song.SongId">Remove</a> -->
+					<a class="btn btn-warning" asp-action="Edit" asp-route-id="@song.SongId">Edit</a>
+					<a class="btn btn-danger" asp-action="Remove" asp-route-id="@song.SongId">Remove</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<!-- $(document).ready(function () {
+			$('#songsTable').DataTable();
+		}); -->
+<!-- new DataTable('#myTable', {
+	layout: {
+		topStart: {
+			buttons: [
+				'copy', 'excel', 'pdf'
+			]
+		}
+	}
+}); -->
+
+@section Scripts {
+	<script>
+
+		let table = new DataTable('#songsTable', {
+			layout: {
+				topStart: 'info',
+				bottom: 'paging',
+				bottomStart: null,
+				bottomEnd: null
+			}
+		});
+
+		window.setTimeout(function () {
+			$(".alert").fadeTo(500, 0).slideUp(500, function () {
+				$(this).remove();
+			});
+		}, 3000);
+
+	</script>
+}

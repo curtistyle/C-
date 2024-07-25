@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\bin\Debug\PracticeLinq6.exe.config
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\bin\Debug\PracticeLinq6.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\bin\Debug\PracticeLinq6.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\obj\Debug\PracticeLinq6.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\obj\Debug\PracticeLinq6.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\obj\Debug\PracticeLinq6.exe
+D:\Progarmacion\C-\PRACTICE\TEST\PracticeLinq6\obj\Debug\PracticeLinq6.pdb

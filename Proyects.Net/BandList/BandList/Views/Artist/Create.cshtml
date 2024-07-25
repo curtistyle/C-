@@ -1,0 +1,37 @@
+﻿@using BandList.Models.ViewModels
+@model ArtistViewModel
+
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+				
+			<!-- Name of artist -->
+			<div class="form-group">
+				<label asp-for="Name" class="control-label"></label>
+				<input asp-for="Name" class="form-control"/>
+				<span asp-validation-for="Name" class="text-danger"></span>
+			</div>
+			
+			<!-- Genre -->
+			<div class="form-group">
+				<label asp-for="Genre" class="control-label"></label>
+				<input asp-for="Genre" class="form-control" />
+				
+			</div>
+			
+			<!-- btn crear -->
+			<div class="form-group">
+				<input type="submit" value="Crear" class="btn btn-primary" />
+			</div>
+		</form>
+
+	</div>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

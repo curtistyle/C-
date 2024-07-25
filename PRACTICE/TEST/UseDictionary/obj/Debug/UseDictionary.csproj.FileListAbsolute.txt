@@ -1,0 +1,7 @@
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\bin\Debug\UseDictionary.exe.config
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\bin\Debug\UseDictionary.exe
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\bin\Debug\UseDictionary.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\obj\Debug\UseDictionary.csproj.AssemblyReference.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\obj\Debug\UseDictionary.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\obj\Debug\UseDictionary.exe
+D:\Progarmacion\C-\PRACTICE\TEST\UseDictionary\obj\Debug\UseDictionary.pdb

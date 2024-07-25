@@ -1,0 +1,15 @@
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\bin\Debug\net8.0\UseList1.exe
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\bin\Debug\net8.0\UseList1.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\bin\Debug\net8.0\UseList1.runtimeconfig.json
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\bin\Debug\net8.0\UseList1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\bin\Debug\net8.0\UseList1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\refint\UseList1.dll
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\UseList1.genruntimeconfig.cache
+D:\Progarmacion\C-\PRACTICE\TEST\UseList1\obj\Debug\net8.0\ref\UseList1.dll

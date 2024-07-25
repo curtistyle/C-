@@ -1,0 +1,28 @@
+﻿@model List<Artist>
+
+<h1>Artists</h1>
+
+<p>
+    <a asp-action="Create">Agregar</a>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Genre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var artist in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(value => artist.ArtistId)</td>
+                <td>@Html.DisplayFor(value => artist.Name)</td>
+                <td>@Html.DisplayFor(value => artist.Genre)</td>
+            </tr>
+        }
+    </tbody>
+</table>

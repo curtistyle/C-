@@ -1,0 +1,12 @@
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\bin\Debug\net8.0\ClassLibraryPDF.deps.json
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\bin\Debug\net8.0\ClassLibraryPDF.dll
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\bin\Debug\net8.0\ClassLibraryPDF.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.AssemblyInfoInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.AssemblyInfo.cs
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.csproj.CoreCompileInputs.cache
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.sourcelink.json
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.dll
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\refint\ClassLibraryPDF.dll
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ClassLibraryPDF.pdb
+D:\Progarmacion\C-\PRACTICE\TEST\ClassLibraryPDF\obj\Debug\net8.0\ref\ClassLibraryPDF.dll
