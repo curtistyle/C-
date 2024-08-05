@@ -3,16 +3,7 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20E019D0-1A33-4F05-9CBF-8BC1FCD7C3C9}|..\\ThisIsJSON\\ThisIsJSON.csproj|d:\\progarmacion\\c-\\thisisjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E822FD77-4DE7-494E-91D1-D470E6CB839D}|..\\ThisIsTask3\\ThisIsTask3.csproj|d:\\progarmacion\\c-\\thisistask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D3B2B0-F369-47D3-862F-46A9AD25B3BE}|..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj|d:\\progarmacion\\c-\\thisislistandusinglinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D3B2B0-F369-47D3-862F-46A9AD25B3BE}|..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj|d:\\progarmacion\\c-\\thisislistandusinglinq\\thisislistandusinglinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1CD124C5-0E35-455D-A44E-49232E1FB1E2}|..\\Delegates\\Delegates.csproj|d:\\progarmacion\\c-\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,59 +13,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ThisIsListAndUsingLINQ\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\Program.cs",
-              "RelativeToolTip": "..\\ThisIsListAndUsingLINQ\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAABsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:19:18.328Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsJSON\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ThisIsJSON\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsJSON\\Program.cs",
-              "RelativeToolTip": "..\\ThisIsJSON\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACYAAAAPAAAA",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Delegates\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\Delegates\\Program.cs",
+              "RelativeToolTip": "..\\Delegates\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:56:26.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsTask3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ThisIsTask3\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsTask3\\Program.cs",
-              "RelativeToolTip": "..\\ThisIsTask3\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T00:22:09.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThisIsListAndUsingLINQ",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
-              "RelativeDocumentMoniker": "..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
-              "ToolTip": "D:\\Progarmacion\\C-\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
-              "RelativeToolTip": "..\\ThisIsListAndUsingLINQ\\ThisIsListAndUsingLINQ.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-09T00:19:15.189Z",
+              "WhenOpened": "2024-08-05T12:46:21.437Z",
               "EditorCaption": ""
             }
           ]
