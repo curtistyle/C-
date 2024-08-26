@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListViewControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbba8b78dc6ec1e22147b22e692a412a8281f2b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1df3426ba1a3c449f1085ee343ccef994359a4a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListViewControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListViewControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

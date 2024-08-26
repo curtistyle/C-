@@ -1,5 +1,0 @@
-D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
-D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
-D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
-D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
-D:\Progarmacion\C-\WindowsForms\WindowsFormCSharp\Test\obj\Debug\net8.0\Test.sourcelink.json

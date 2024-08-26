@@ -31,6 +31,9 @@ filterYear
     .OrderBy(value => value.Year)
     .Display();
 
+int[] myCadena = [1, 2, 3];
+
+myCadena.Display();
 
 public static class Extensions
 {
