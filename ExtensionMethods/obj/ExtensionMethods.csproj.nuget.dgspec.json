@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj": {
-                "projectPath": "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj"
+              "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj": {
+                "projectPath": "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj": {
+    "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj",
+        "projectUniqueName": "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj",
         "projectName": "OverloadedConstructors",
-        "projectPath": "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj",
+        "projectPath": "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj",
         "packagesPath": "C:\\Users\\Curtis\\.nuget\\packages\\",
-        "outputPath": "D:\\Progarmacion\\C-\\OverloadedConstructors\\obj\\",
+        "outputPath": "d:\\Progarmacion\\C-\\OverloadedConstructors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Curtis\\AppData\\Roaming\\NuGet\\NuGet.Config",

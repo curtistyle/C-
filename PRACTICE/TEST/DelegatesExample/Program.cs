@@ -7,29 +7,29 @@ DiscountRule[] rules =                            // Instantiations
 	new DiscountRule(Discount.Maximun),
 };
 
-MessageFormat format = new MessageFormat(Message.Class);
-
+//MessageFormat format = new MessageFormat(Message.Class);
+MessageFormat format = Message.Class;
 double buy = 100.00;
 Message msg = new Message();
 
-msg.Out(format, buy);                            // Invocation
+msg.Out(format, buy);                            // Invocation (usted compra por...)
 
 format = new MessageFormat(msg.Instance);	
 
-foreach (DiscountRule r in rules)  
+foreach (DiscountRule rule in rules)  
 {
-	double saving = Discount.Apply(r, buy);      // Invocation
-	msg.Out(format, saving);	                 // Invocation
+	double saving = Discount.Apply(rule, buy);      // Invocation
+	msg.Out(format, saving);	                    // Invocation
 }
 // FIN MAIN
 
-delegate double DiscountRule();
-delegate string MessageFormat();
+delegate double DiscountRule();  // reglas de descuento
+delegate string MessageFormat(); // formato de los mensajes
 
 class Message
 {
-	public string Instance() { return "You save {0:C}"; }
-	public static string Class() { return "You are buying for {0:C}"; }
+	public string Instance() { return "You save {0:C}"; }                // devuelve un formato
+	public static string Class() { return "You are buying for {0:C}"; }  // devuelve un formato
 	public void Out (MessageFormat format, double d)
 	{
 		Console.WriteLine(format(), d);

@@ -141,6 +141,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallbackAsync", "..\Callbac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingThread", "..\UsingThread\UsingThread.csproj", "{0223BF62-BE34-4F1D-82C1-632F8B93E2CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingString", "..\UsingString\UsingString.csproj", "{D092F911-31BB-4C46-9859-984BD9497E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +425,10 @@ Global
 		{0223BF62-BE34-4F1D-82C1-632F8B93E2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0223BF62-BE34-4F1D-82C1-632F8B93E2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0223BF62-BE34-4F1D-82C1-632F8B93E2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D092F911-31BB-4C46-9859-984BD9497E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D092F911-31BB-4C46-9859-984BD9497E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D092F911-31BB-4C46-9859-984BD9497E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D092F911-31BB-4C46-9859-984BD9497E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

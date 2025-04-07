@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj": {
-              "projectPath": "D:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj"
+            "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj": {
+              "projectPath": "d:\\Progarmacion\\C-\\OverloadedConstructors\\OverloadedConstructors.csproj"
             }
           }
         }

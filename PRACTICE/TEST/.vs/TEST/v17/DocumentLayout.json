@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D95C184-19B2-4C88-A645-5C0CD3D312A5}|DelegatesExample\\DelegatesExample.csproj|d:\\progarmacion\\c-\\practice\\test\\delegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D95C184-19B2-4C88-A645-5C0CD3D312A5}|DelegatesExample\\DelegatesExample.csproj|solutionrelative:delegatesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E91F415-E240-41F9-A3BA-18B2A98B7FA9}|PracticeDelegates\\PracticeDelegates.csproj|d:\\progarmacion\\c-\\practice\\test\\practicedelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E91F415-E240-41F9-A3BA-18B2A98B7FA9}|PracticeDelegates\\PracticeDelegates.csproj|solutionrelative:practicedelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E91F415-E240-41F9-A3BA-18B2A98B7FA9}|PracticeDelegates\\PracticeDelegates.csproj|d:\\progarmacion\\c-\\practice\\test\\practicedelegates\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3E91F415-E240-41F9-A3BA-18B2A98B7FA9}|PracticeDelegates\\PracticeDelegates.csproj|solutionrelative:practicedelegates\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.md",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PracticeDelegates\\readme.md",
+              "RelativeDocumentMoniker": "PracticeDelegates\\readme.md",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PracticeDelegates\\readme.md",
+              "RelativeToolTip": "PracticeDelegates\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABtAwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-31T23:02:17.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\DelegatesExample\\Program.cs",
-              "RelativeDocumentMoniker": "DelegatesExample\\Program.cs",
-              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\DelegatesExample\\Program.cs",
-              "RelativeToolTip": "DelegatesExample\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PracticeDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeDelegates\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\PRACTICE\\TEST\\PracticeDelegates\\Program.cs",
+              "RelativeToolTip": "PracticeDelegates\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:35:53.789Z",
+              "WhenOpened": "2024-08-31T22:08:56.324Z",
               "EditorCaption": ""
             }
           ]

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Progarmacion\\C-\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D092F911-31BB-4C46-9859-984BD9497E73}|..\\UsingString\\UsingString.csproj|d:\\progarmacion\\c-\\usingstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C453913B-2F60-4C06-9623-0223D2440902}|..\\Test2\\Test2.csproj|d:\\progarmacion\\c-\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,14 +26,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Progarmacion\\C-\\UsingString\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UsingString\\Program.cs",
+              "ToolTip": "D:\\Progarmacion\\C-\\UsingString\\Program.cs",
+              "RelativeToolTip": "..\\UsingString\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:00:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Progarmacion\\C-\\Test2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Test2\\Program.cs",
               "ToolTip": "D:\\Progarmacion\\C-\\Test2\\Program.cs",
               "RelativeToolTip": "..\\Test2\\Program.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:57:16.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T00:57:16.062Z"
             }
           ]
         }
